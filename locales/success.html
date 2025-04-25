@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Payment Success</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f7f7f7;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .container {
+      text-align: center;
+      background-color: white;
+      padding: 40px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+    .icon {
+      font-size: 60px;
+      color: green;
+    }
+    .title {
+      font-size: 28px;
+      font-weight: bold;
+      color: green;
+      margin-top: 20px;
+    }
+    .message {
+      font-size: 18px;
+      color: #555;
+      margin-top: 10px;
+    }
+    .button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      font-size: 16px;
+      color: white;
+      background-color: green;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .button:hover {
+      background-color: darkgreen;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <div class="icon">&#x2714;</div> <!-- Green checkmark -->
+  <div class="title">Payment Successful!</div>
+  <div class="message">Your payment has been processed successfully. Thank you for your purchase!</div>
+  <button class="button" onclick="window.location.href='home.html'">Go to Home</button>
+</div>
+
+</body>
+</html>
