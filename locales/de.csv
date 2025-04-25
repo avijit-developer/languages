@@ -1,229 +1,66 @@
 ﻿WELCOME,Willkommen
 DASHBOARD,Instrumententafel
-PRIVACY_POLICY,Datenschutzrichtlinie
-CONTACT_US,Kontaktieren Sie uns
+SHOPPING,Einkaufen
+PARTNER_PROGRAM,Partnerprogramm
+TRAINING_AND_ONBOARDING_RESOURCES,Schulungs- und Onboarding-Ressourcen
+INVOICES,Rechnungen
+SALES_ORDERS,Kundenaufträge
+PRODUCT_INFORMATION,Produktinformation
+MY_COMPANY,Mein Unternehmen
+CREDIT_NOTES,Gutscheine
 ABOUT_US,Über uns
-LOGOUT,Abmeldung
-DELIVER_TO,Liefern nach
-CATEGORIES,Kategorien
-VIEW_ALL,Alle anzeigen
-MOST_VIEWED_PRODUCTS,Meist angesehene Produkte
-SHOP_NOW,Jetzt kaufen
-COLLECTION,Sammlung
-FREE_DELIVERY,KOSTENLOSE LIEFERUNG
-FREE_SHIPPING_FOR_ORDERS_OVER_$50,Kostenloser Versand für Bestellungen über 50 $
-RETURN_&_REFUND,RÜCKGABE & RÜCKERSTATTUNG
-FREE_100%_MONEY_BACK_GUARANTEE,Kostenlose 100% Geld-zurück-Garantie
-QUALITY_SUPPORT,QUALITÄTS-SUPPORT
-ALWAYS_ONLINE_FEEDBACK_24/7,Immer Online-Feedback 24/7
+BALANCE SHEET,Bilanz
+MY_OPEN_ORDERS,MEINE OFFENEN AUFTRÄGE
+COUNT,ZÄHLEN
+AMOUNT,MENGE
+MY_OPEN_INVOICES,MEINE OFFENEN RECHNUNGEN
+TOP_MOST PURCHASED_PRODUCTS,TOP 10 DER MEISTGEKAUFTEN PRODUKTE
 ORDERS,Aufträge
-PROFILE,Profil
-SEARCH,Suchen
-TYPE_HERE,Geben Sie hier ein
-LOGIN_TO_YOUR_ACCOUNT,Melden Sie sich bei Ihrem Konto an
-EMAIL,E-Mail
-PASSWORD,Passwort
-FORGOT_PASSOWORD,Passowort vergessen
-LOGIN,Einloggen
-DON'T_HAVE_ANY_ACCOUNT?_SIGNUP,Sie haben noch kein Konto? Anmelden
-EMAIL_IS_REQUIRED.,E-Mail ist erforderlich.
-PASSWORD_IS_REQUIRED.,Ein Passwort ist erforderlich.
-INCORRECT_USERNAME_OR_PASSWORD._PLEASE_TRY_AGAIN.,Falscher Benutzername oder falsches Passwort. Bitte versuchen Sie es erneut.
-CREATE_YOUR_ACCOUNT,Erstellen Sie Ihr Konto
-NAME,Name
-CONFIRM_PASSWORD,Passwort bestätigen
-FIRST_NAME,Vorname
-LAST_NAME,Nachname
-SIGNUP,Anmelden
-LOADING,Laden
-ALREADY_HAVE_AN_ACCOUNT?_SIGNIN,Haben Sie bereits ein Konto? Anmelden
-NAME_IS_REQUIRED.,Name ist erforderlich.
-FIRSTNAME_IS_REQUIRED.,Der Vorname ist erforderlich.
-LASTNAME_IS_REQUIRED.,Nachname ist erforderlich.
-PASSWORD_CANNOT_BE_EMPTY,Das Kennwort darf nicht leer sein
-CONFIRM_PASSWORD_CANNOT_BE_EMPTY,"Bestätigen, dass das Passwort nicht leer sein darf"
-PASSWORD_AND_CONFIRM_PASSWORD_NOT_MATCH!,Passwort und Passwort bestätigen stimmen nicht überein!
-THE_EMAIL_IS_ALREADY_REGISTERED,Die E-Mail ist bereits registriert
-MY_ACCOUNT,Mein Konto
-WELCOME,Willkommen
-MY_SAVED_PLACES,Meine gespeicherten Orte
-MY_ORDERS,Meine Bestellungen
-MY_FAVOURITE,Mein Favorit
-WALLETS,Brieftaschen
-COMPANY_ACCOUNT,Firmenkonto
-SAVE,Retten
-USERS,Benutzer
-ROLE,Rolle
-MY_PRODUCT_REVIEWS,Meine Produktbewertungen
-REQUESTED_QUOTE,Angefordertes Angebot
-COMPARE_PRODUCTS,Produkte vergleichen
-CONTACT_INFORMATION,Kontaktinformationen
-ADD_NEW_ADDRESS,Neue Adresse hinzufügen
-COMPANY,Firma
-PHONE_NO,Telefonnummer
-STREET,Straße
-"PLEASE_SELECT_A_REGION,_STATE_OR_PROVINCE.","Bitte wählen Sie eine Region, ein Bundesland oder eine Provinz aus."
-CITY,Stadt
-ZIP/POSTAL_CODE,Postleitzahl
-USE_AS_MY_DEFAULT_BILLING_ADDRESS,Als Standard-Rechnungsadresse verwenden
-USE_AS_MY_DEFAULT_SHIPPING_ADDRESS,Als Standard-Lieferadresse verwenden
-SAVE_ADDRESS,Adresse speichern
-SELECT_USER_TYPE,Benutzertyp auswählen
-CUSTOMER,Kunde
-BUSINESS,Geschäft
-MY_CART,Mein Warenkorb
-ORDER_INFO,Bestellinformationen
-SUBTOTAL,Zwischensumme
-SHIPPING_FEE,Versandkosten
-TAX,Steuer
-TOTAL,Gesamt
-ENTER_DISCOUNT_CODE,Rabattcode eingeben
-APPLY,Anwenden
-REMOVE_DISCOUNT_CODE,Rabattcode entfernen
-ORDER_COMMENTS,Kommentare zur Bestellung
-CHECKOUT,KASSE
-YOUR_CART_IS_EMPTY,Ihr Warenkorb ist leer
-CONTINUE_SHOPPING,Weiter einkaufen
-YOU_MIGHT_ALSO_LIKE,Das könnte Ihnen auch gefallen
-CHECKOUT,Kasse
-PLEASE_ENTER_YOUR_DETAILS_BELOW_TO_COMPLETE_YOUR_PURCHASE,"Bitte geben Sie unten Ihre Daten ein, um Ihren Kauf abzuschließen"
-ESTIMATED_TOTAL:,Geschätzte Gesamtsumme:
-SHIPPING_ADDRESS,Lieferadresse
-NEW_ADDRESS,Neue Adresse
-BILLING_ADDRESS,Rechnungsadresse
-MY_BILLING_AND_SHIPPING_ADDRESS_ARE_THE_SAME,Meine Rechnungs- und Lieferadresse sind identisch
-STREET_ADDRESS,Straße
-COUNTRY,Land
-STATE/PROVINCE,Bundesland/Provinz
-PHONE_NUMBER,Telefonnummer
-FAX,Fax
-ADD,Hinzufügen
-EDIT,Redigieren
-SHIPPING_METHOD,Versandmethode
-PAYMENT_METHOD,Zahlungsmethode
-ORDER_SUMMARY,Zusammenfassung der Bestellung
-ITEMS_IN_CART,Artikel im Warenkorb
-QTY,Qty
-TERMS_AND_CONDITIONS,Allgemeine Geschäftsbedingungen
-PLACE_ORDER,Bestellung aufgeben
-PAYMENT,Zahlung
-EDIT_ADDRESS,Adresse bearbeiten
-ITEM_IN_CART,Artikel in den Warenkorb
-REVIEWS,Rezensionen
-SHOW_MORE,Mehr anzeigen
-SHOW_LESS,Weniger anzeigen
-COLOR,Farbe
-SIZE,Größe
-THIS_IS_A_REQUIRED_FIELD.,Dies ist ein Pflichtfeld.
-QUANTITY,Menge
-RATE_NOW,Jetzt bewerten
-YOU_ARE_THE_FIRST_TO_ADD_A_RATING.,"Sie sind der Erste, der eine Bewertung abgibt."
-ADD_TO_CART,In den Warenkorb
-ADDED_TO_CART,In den Warenkorb gelegt
-YOU'RE_REVIEWING:,Sie bewerten den Artikel:
-YOUR_RATING,Ihre Bewertung
-NICKNAME,Spitzname
-SUMMARY,Zusammenfassung
-REVIEW,Rezension
-SUBMIT_REVIEW,Bewertung abgeben
-FORGOT_YOUR_PASSWORD?,Passwort vergessen?
-PLEASE_ENTER_YOUR_EMAIL_ADDRESS_TO_RECEIVE_A_PASSWORD_RESET_LINK.,"Bitte geben Sie Ihre E-Mail-Adresse ein, um einen Link zum Zurücksetzen des Passworts zu erhalten."
-IF_A_CUSTOMER_ACCOUNT_IS_LINKED_TO,Wenn ein Kundenkonto mit
-YOU_WILL_RECEIVE_AN_EMAIL_WITH_A_LINK_TO_RESET_YOUR_PASSWORD.,Sie erhalten eine E-Mail mit einem Link zum Zurücksetzen Ihres Passworts.
-PLEASE_COMPLETE_THE_CAPTCHA,Bitte füllen Sie das CAPTCHA aus
-ENTER_CAPTCHA,CAPTCHA eingeben
-RESET_MY_PASSWORD,Mein Passwort zurücksetzen
-ACCOUNT_INFORMATION,Kontoinformationen
-SHOW_PASSWORD,Passwort anzeigen
-PERSONAL_INFORMATION,Persönliche Informationen
-COMPANY_NAME_ONE,Firmenname eins
-COMPANY_NAME_TWO,Firmenname zwei
-NAME_PREFIX,Namenspräfix
-SELECT_PREFIX,Präfix auswählen
-DATE_OF_BIRTH,Geburtsdatum
-SELECT_DATE,Datum auswählen
-TAX/VAT_NUMBER,Steuer-/Umsatzsteuer-Identifikationsnummer
-ADDRESS_INFORMATION,Adressinformationen
-SELECT_STATE,Bundesland auswählen
-CREATE_AN_ACCOUNT,Erstellen Sie ein Konto
-UPDATE_ADDRESS,Adresse aktualisieren
-IT'S_A_DEFAULT_BILLING_ADDRESS.,Es handelt sich um eine Standard-Rechnungsadresse.
-IT'S_A_DEFAULT_SHIPPING_ADDRESS.,Es handelt sich um eine Standard-Lieferadresse.
-DEFAULT_BILLING_ADDRESS,Standard-Rechnungsadresse
-DEFAULT_ADDRESSES,Standardadressen
-DEFAULT_SHIPPING_ADDRESS,Standard-Lieferadresse
-ADDITIONAL_ADDRESS_ENTRIES,Zusätzliche Adresseinträge
-CHANGE,Veränderung
-ADDRESS,Adresse
-FIRST_NAME_IS_REQUIRED,Vorname ist erforderlich
-LAST_NAME_IS_REQUIRED,Nachname ist erforderlich
-STREET_ADDRESS_IS_REQUIRED,Die Adresse ist erforderlich
-STATE/PROVINCE_IS_REQUIRED,Bundesland/Provinz ist erforderlich
-CITY_IS_REQUIRED,Stadt ist erforderlich
-ZIP/POSTAL_CODE_IS_REQUIRED,Postleitzahl ist erforderlich
-EMAIL_ADDRESS_IS_INVALID,E-Mail-Adresse ist ungültig
-EMAIL_ADDRESS_ALREADY_EXIST,E-Mail-Adresse existiert bereits
-YOU_DON'T_HAVE_ANY_ORDERS,Sie haben keine Bestellungen
-ORDER,Bestellung
-ORDER_TOTAL,Gesamtbetrag der Bestellung
+ORDER_ID_SAP,Bestell-ID (SAP)
+ORDER_ID_ONLINE,Bestellnummer (online)
 STATUS,Status
+DATE,Datum
+ORDER_TOTAL,Gesamtbetrag der Bestellung
+PLEASE_ENTER_TO_DATE,Bitte geben Sie bis Datum ein
+PLEASE_ENTER_FROM_DATE,Bitte geben Sie das Datum ein
+OPENED,Geöffnet
+CLOSED,Geschlossen
+CANCELLED,Abgebrochen
+PARTIAL_PENDING,Teilweise ausstehend
+PENDING,Anhängig
+PAID,Bezahlt
+FROM_DATE,Ab Datum
+TO_DATE,Bis heute
+SELECT_STATUS,Status auswählen
+NUMBER,Zahl
+ENTER_NUMBER,Anzahl eingeben
+APPLY_FILTER,FILTER ANWENDEN
+CLEAR_FILTER,FILTER LÖSCHEN
 ORDER_DETAILS,Einzelheiten zur Bestellung
-ITEMS_ORDERED,Bestellte Artikel
-PRODUCT_NAME,Produktname
-SKU,SKU
+ORDER_NO,Bestell-Nr
+ORDER_ITEMS,Positionen bestellen
+SKU_V1,SKU
 PRICE,Preis
-ORDERED,Angeordnet
-SHIPPING_&_HANDLING,Versand & Bearbeitung
-DISCOUNT,Rabatt
+QTY_V1,Qty
+TAX_V1,Steuer
+SUBTOTAL,Zwischensumme
+TOTAL_BEFORE_TAX,Gesamtbetrag vor Steuern
+TOTAL_TAX_AMOUNT,Gesamter Steuerbetrag
 GRAND_TOTAL,Gesamtsumme
 ORDER_INFORMATION,Bestellinformationen
-PLEASE_CHECK_PAYMENT_METHOD,Bitte überprüfen Sie die Zahlungsmethode
-PLEASE_CHECK_SHIPPING_METHOD,Bitte überprüfen Sie Shipping Meth
-PLEASE_CHECK_TERMS_AND_CONDITIONS,
-MY_WISH_LIST,
-SUCCESSFULLY_REMOVED,
-CONFIRM_DELETE,
-ARE_YOU_SURE_YOU_WANT_TO_DELETE_THIS_ADDRESS?',
-CANCEL,
-DELETE,
-DELETED_SUCCESSFULLY,
-CHANGE_PASSWORD,
-OLD_PASSWORD,
-NEW_PASSWORD,
-NEW_CONFIRM_PASSWORD,
-UPDATE,
-ADDED_SUCCESSFULLY,
-UPDATE_SUCCESSFULLY,
-ACCOUNT_UPDATED_SUCCESSFULLY,
-ARE_YOU_SURE_YOU_WANT_TO_REMOVE_THIS_ITEM_FROM_THE_CART?,
-CALL_US,
-EMAIL_US,
-CUSTOMER_SERVICE,
-WRITE_US,
-SUBJECT,
-WHAT'S_ON_YOUR_MIND?,
-SUBMIT,
-THANK_YOU_FOR_CONTACTING_US_WITH_YOUR_COMMENTS_AND_QUESTIONS._WE_WILL_GET_BACK_TO_YOU_AS_SOON_AS_POSSIBLE.,
-NAME_FIELD_IS_REQUIRED,
-SUBJECT_FIELD_IS_REQUIRED,
-MESSAGE_FIELD_IS_REQUIRED,
-TRANSACTION_ID,
-APPLY_FILTERS,
-RESET,
-FILTERS,
-MIN,
-MAX,
-SORT_BY,
-PRICE_-_HIGH_TO_LOW,
-PRICE_-_LOW_TO_HIGH,
-PLEASE_LOGIN_FIRST,
-YOUR_PRODUCT_HAS_BEEN_UPDATED_TO_THE_CART.,
-YOUR_PRODUCT_HAS_BEEN_ADDED_TO_THE_CART.,
-OUT_OF_STOCK,
-IN_STOCK,
-COUPON_APPLIED,
-COUPON_REMOVED,
-PLACED_BY,
-ALL_FIELDS_ARE_MANDATORY,
-REVIEW_SUBMITTED,
-IF_YOU_REGISTERED_THEN_PLEASE_LOGIN,
+DELIVERY_ADDRESS,Lieferadresse
+BILLING_ADDRESS,Rechnungsadresse
+SHIPPING_METHOD,Versandmethode
+PAYMENT_METHOD,Zahlungsmethode
+DOWNLOAD_COMPLETE,Download komplett
+DOWNLOAD_FAILED,Download fehlgeschlagen
+INVOICE_DETAILS,Details zur Rechnung
+BALANCE_DUE,Fälliger Restbetrag
+PAY_V1,Bezahlen
+INVOICE_ID,Rechnungs-ID
+CREDIT_NOTE_LIST,Liste der Gutschriften
+CREDIT_NOTE_NO,Gutschrift Nr
+CREDIT_NOTE_ONLINE,Gutschrift (Online)
+SHOW_LESS,Weniger anzeigen
+SHOW_MORE,Mehr anzeigen
+CREDIT_NOTE_DETAILS,Details zur Gutschrift
