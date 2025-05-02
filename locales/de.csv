@@ -67,3 +67,19 @@ CREDIT_NOTE_DETAILS,Details zur Gutschrift
 HOME,HEIM
 SELECT_ALL,Alles auswählen
 PAYMENT SUCCESSFUL,Zahlung erfolgreich
+CHOOSE_PAYMENT_METHOD,Zahlungsmethode auswählen
+PAYBLE_AMOUNT,Zahlbarer Betrag
+SHIPMENT,Lieferung
+TRAINING_RESOURCES,Schulungsressourcen
+WATCH_VIDEO,Video ansehen
+WATCH,Betrachten
+DOWNLOAD,Herunterladen
+DOCUMENTATION,Dokumentation
+VIEW_V1,Sicht
+NEW_COLLECTION,Neue Kollektion
+PRODUCT_IMAGES,Produktbilder
+PRODUCT_CATALOGUE,Produktkatalog
+PRODUCT_PRICE_LIST,Produktpreisliste
+PRODUCT_DESCRIPTION,Produktbeschreibung
+VIEW_PRODUCTS,Produkte anzeigen
+VIEW_IMAGES,Bilder anzeigen
