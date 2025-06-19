@@ -102,3 +102,5 @@ SIGNIN_ACCOUNT_FIRST,Please sign in to your account first
 EMAIL,Email
 PASSWORD,Password
 FORGOT_PASSWORD,Forgot password?
+EMAIL_REQUIRED,"Invalid Email, Please enter a valid email address."
+PASSWORD_REQUIRED,"Invalid Password, Please enter a valid password."
