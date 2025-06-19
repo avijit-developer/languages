@@ -98,3 +98,7 @@ TRACKING,VERFOLGUNG
 SHIPMENT_LIST,Sendungsliste
 APP_SETTINGS,App-Einstellungen
 PUSH_NOTIFICATION,Push-Benachrichtigung
+SIGNIN_ACCOUNT_FIRST,Bitte melden Sie sich zuerst bei Ihrem Konto an
+EMAIL,E-Mail
+PASSWORD,Passwort
+FORGOT_PASSWORD,PASSWORT VERGESSEN
