@@ -135,3 +135,7 @@ TOTAL,Gesamt
 PLACE_ORDER,Bestellung aufgeben
 YOUR_CART_EMPTY,Ihr Warenkorb ist leer
 CONTINUE_SHIPPING,Weiter einkaufen
+ALL_PRODUCT_DELETE_MSG,Möchten Sie wirklich alle Produkte aus Ihrem Warenkorb entfernen?
+SUCCESSFULLY_REMOVED,Erfolgreich entfernt
+PRODUCT_DELETE_MSG,Möchten Sie dieses Produkt wirklich aus Ihrem Warenkorb entfernen?
+SUCCESSFULLY_ADDED,Erfolgreich hinzugefügt

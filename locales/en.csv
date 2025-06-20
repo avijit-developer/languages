@@ -135,3 +135,7 @@ TOTAL,Total
 PLACE_ORDER,Place Order
 YOUR_CART_EMPTY,Your cart is empty
 CONTINUE_SHIPPING,Continue Shopping
+ALL_PRODUCT_DELETE_MSG,Are you sure to remove all products from your cart?
+SUCCESSFULLY_REMOVED,Successfully Removed
+PRODUCT_DELETE_MSG,Are you sure you want to remove this product from your cart?
+SUCCESSFULLY_ADDED,Successfully Added
