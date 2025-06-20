@@ -139,3 +139,10 @@ ALL_PRODUCT_DELETE_MSG,Möchten Sie wirklich alle Produkte aus Ihrem Warenkorb e
 SUCCESSFULLY_REMOVED,Erfolgreich entfernt
 PRODUCT_DELETE_MSG,Möchten Sie dieses Produkt wirklich aus Ihrem Warenkorb entfernen?
 SUCCESSFULLY_ADDED,Erfolgreich hinzugefügt
+CHOOSE_SIZE,Größe wählen
+ADDED_ITEM,Hinzugefügter Artikel
+ADD_TO_BAG,In den Warenkorb
+DISCOUNT_APPLICABLE_MSG,Hinweis: Der oben genannte Rabatt gilt nur für die gleiche Farbe und Größe.
+DELIVERY_BETWEEN_WEEKS,Lieferzeit zwischen 2 und 4 Wochen
+CHECK_AVAILABILITY,Verfügbarkeit prüfen
+THIS_IS_REQUIRED_FIELD,Dies ist ein Pflichtfeld.

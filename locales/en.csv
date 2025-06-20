@@ -139,3 +139,10 @@ ALL_PRODUCT_DELETE_MSG,Are you sure to remove all products from your cart?
 SUCCESSFULLY_REMOVED,Successfully Removed
 PRODUCT_DELETE_MSG,Are you sure you want to remove this product from your cart?
 SUCCESSFULLY_ADDED,Successfully Added
+CHOOSE_SIZE,Choose size
+ADDED_ITEM,Added Item
+ADD_TO_BAG,Add to bag
+DISCOUNT_APPLICABLE_MSG,Note: Above discount will be applicable only on same color and size
+DELIVERY_BETWEEN_WEEKS,Delivery time between 2 to 4 weeks
+CHECK_AVAILABILITY,Check Availability
+THIS_IS_REQUIRED_FIELD,This is a required field.
