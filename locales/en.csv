@@ -104,3 +104,13 @@ PASSWORD,Password
 FORGOT_PASSWORD,Forgot password?
 EMAIL_REQUIRED,"Invalid Email, Please enter a valid email address."
 PASSWORD_REQUIRED,"Invalid Password, Please enter a valid password."
+LOADING,Loading
+CREDIT_LIMIT,Credit Limit
+AVAILABLE_CREDIT_LIMIT,Available credit limit
+YOUR_ACCOUNT,Your Account
+OVERVIEW,Overview
+PERSONAL_DETAILS,Personal Details
+PARTNER_PORTAL,Partner Portal
+MY_WISH_LIST,My Wish List
+ADDRESS_BOOK,Address Book
+REQUEST_FOR_LOGO,Request For Logo
