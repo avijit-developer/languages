@@ -175,3 +175,10 @@ COMMENTS_V1,Kommentar
 ITEM_ORDERED,Bestellte Artikel
 ORDER_SUMMARY,Bestellübersicht
 QUANTITY_V1,Menge
+ADDRESS_LIST,Adressliste
+DEFAULT_SHIPPING_ADDRESS,Standardlieferadresse
+DEFAULT_BILLING_ADDRESS,Standard-Rechnungsadresse
+NO_ITEM_FOUND,Kein Artikel gefunden
+REQUEST_V1,Request
+SAVED_TO,Gespeichert in:
+FAILED_DOWNLOAD_IMAGE,Das Herunterladen des Bildes ist fehlgeschlagen.
