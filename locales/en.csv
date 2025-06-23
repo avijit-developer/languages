@@ -182,3 +182,9 @@ NO_ITEM_FOUND,No Item Found
 REQUEST_V1,Request
 SAVED_TO,Saved to:
 FAILED_DOWNLOAD_IMAGE,Failed to download the image.
+FILTERS_V1,Filters
+ALL_FILTERS,All filters
+NO_NOTIFICATION_FOUND,No notifications yet
+MARK_ALL_AS_READ,Mark all as read
+CLEAR_ALL,Clear all
+NOTIFICATION_V1,Notification

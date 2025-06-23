@@ -179,6 +179,12 @@ ADDRESS_LIST,Adressliste
 DEFAULT_SHIPPING_ADDRESS,Standardlieferadresse
 DEFAULT_BILLING_ADDRESS,Standard-Rechnungsadresse
 NO_ITEM_FOUND,Kein Artikel gefunden
-REQUEST_V1,Request
+REQUEST_V1,Anfrage
 SAVED_TO,Gespeichert in:
 FAILED_DOWNLOAD_IMAGE,Das Herunterladen des Bildes ist fehlgeschlagen.
+FILTERS_V1,Filter
+ALL_FILTERS,Alle Filter
+NO_NOTIFICATION_FOUND,Noch keine Benachrichtigungen
+MARK_ALL_AS_READ,Alle als gelesen markieren
+CLEAR_ALL,Alle löschen
+NOTIFICATION_V1,Benachrichtigung
