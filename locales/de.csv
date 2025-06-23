@@ -157,3 +157,9 @@ INVALID_COUPN,Ungültiger Gutschein
 SUCCESSFULLY_UPDATED,Erfolgreich aktualisiert
 DISCOUNT_ADDED,Rabatt hinzugefügt
 DISCOUNT_REMOVED,Rabatt entfernt
+CHOOSE_DELIVERY_OPTIONS,Bitte wählen Sie eine Lieferoption für fehlende Artikel:
+ACCEPT_TERMS_CONDITIONS,Ich akzeptiere die Allgemeinen Geschäftsbedingungen
+AGREED_PAYMENT_TERMS,Es gelten die vereinbarten Zahlungsbedingungen
+SHIPPING_COSTS,Versandkosten
+CART_SUBTOTAL,Warenkorb-Zwischensumme
+SHIPPING_V1,Versand

@@ -157,3 +157,9 @@ INVALID_COUPN,Invalid Coupon
 SUCCESSFULLY_UPDATED,Successfully Updated
 DISCOUNT_ADDED,Discount Added
 DISCOUNT_REMOVED,Discount Removed
+CHOOSE_DELIVERY_OPTIONS,Please choose a delivery option for missing items:
+ACCEPT_TERMS_CONDITIONS,I accept the terms and conditions
+AGREED_PAYMENT_TERMS,Agreed Payment Terms apply
+SHIPPING_COSTS,Shipping costs
+CART_SUBTOTAL,Cart Subtotal
+SHIPPING_V1,Shipping
