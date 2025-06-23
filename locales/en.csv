@@ -188,3 +188,5 @@ NO_NOTIFICATION_FOUND,No notifications yet
 MARK_ALL_AS_READ,Mark all as read
 CLEAR_ALL,Clear all
 NOTIFICATION_V1,Notification
+NO_INTERNET_CONNECTION,No Internet Connection
+CHECK_YOUR_CONNECTION,Please check your connection and try again.

@@ -188,3 +188,5 @@ NO_NOTIFICATION_FOUND,Noch keine Benachrichtigungen
 MARK_ALL_AS_READ,Alle als gelesen markieren
 CLEAR_ALL,Alle löschen
 NOTIFICATION_V1,Benachrichtigung
+NO_INTERNET_CONNECTION,Keine Internetverbindung
+CHECK_YOUR_CONNECTION,Bitte überprüfen Sie Ihre Verbindung und versuchen Sie es erneut.
