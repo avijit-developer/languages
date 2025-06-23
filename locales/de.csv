@@ -190,3 +190,11 @@ CLEAR_ALL,Alle löschen
 NOTIFICATION_V1,Benachrichtigung
 NO_INTERNET_CONNECTION,Keine Internetverbindung
 CHECK_YOUR_CONNECTION,Bitte überprüfen Sie Ihre Verbindung und versuchen Sie es erneut.
+ENTER_EMAIL_TO_GET_PASS,"Bitte geben Sie Ihre E-Mail-Adresse ein, um einen Link zum Zurücksetzen des Passworts zu erhalten."
+LANGUAGE,Sprache
+CAPTCHA,Captcha
+RESET_MY_PASSWORD,Reset my password
+ERROR_V1,Fehler
+INCORRECT_CAPTCHA,Falsches CAPTCHA. Versuchen Sie es erneut.
+ENTER_VALID_EMAIL,Ungültige E-Mail. Bitte geben Sie eine gültige E-Mail-Adresse ein.
+EMAIL_RECEIVED_RESET_PASS,Sie erhalten eine E-Mail mit einem Link zum Zurücksetzen Ihres Passworts.

@@ -190,3 +190,11 @@ CLEAR_ALL,Clear all
 NOTIFICATION_V1,Notification
 NO_INTERNET_CONNECTION,No Internet Connection
 CHECK_YOUR_CONNECTION,Please check your connection and try again.
+ENTER_EMAIL_TO_GET_PASS,Please enter your email address to receive a password reset link.
+LANGUAGE,Language
+CAPTCHA,Captcha
+RESET_MY_PASSWORD,Reset my password
+ERROR_V1,Error
+INCORRECT_CAPTCHA,"Incorrect CAPTCHA, try again."
+ENTER_VALID_EMAIL,"Invalid Email, Please enter a valid email address."
+EMAIL_RECEIVED_RESET_PASS,you will receive an email with a link to reset your password.
