@@ -163,3 +163,15 @@ AGREED_PAYMENT_TERMS,Es gelten die vereinbarten Zahlungsbedingungen
 SHIPPING_COSTS,Versandkosten
 CART_SUBTOTAL,Warenkorb-Zwischensumme
 SHIPPING_V1,Versand
+CHANGE_PASSWORD,Kennwort ändern
+ACCOUNT_DELETION,Kontolöschung
+DELETE_DATA,Daten anfordern oder löschen
+SIGNOUT,Abmelden
+ORDERS_LIST,Bestellliste
+ORDER_V1,Befehl
+REORDER,Neu anordnen
+ORDER_DATE,Bestelldatum
+COMMENTS_V1,Kommentar
+ITEM_ORDERED,Bestellte Artikel
+ORDER_SUMMARY,Bestellübersicht
+QUANTITY_V1,Menge

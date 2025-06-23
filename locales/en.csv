@@ -163,3 +163,15 @@ AGREED_PAYMENT_TERMS,Agreed Payment Terms apply
 SHIPPING_COSTS,Shipping costs
 CART_SUBTOTAL,Cart Subtotal
 SHIPPING_V1,Shipping
+CHANGE_PASSWORD,Change Password
+ACCOUNT_DELETION,Account deletion
+DELETE_DATA,Request or delete data
+SIGNOUT,Sign out
+ORDERS_LIST,Orders List
+ORDER_V1,Order
+REORDER,Reorder
+ORDER_DATE,Order Date
+COMMENTS_V1,Comment
+ITEM_ORDERED,Items Ordered
+ORDER_SUMMARY,Order Summary
+QUANTITY_V1,Quantity
