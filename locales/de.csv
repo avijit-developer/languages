@@ -198,3 +198,16 @@ ERROR_V1,Fehler
 INCORRECT_CAPTCHA,Falsches CAPTCHA. Versuchen Sie es erneut.
 ENTER_VALID_EMAIL,Ungültige E-Mail. Bitte geben Sie eine gültige E-Mail-Adresse ein.
 EMAIL_RECEIVED_RESET_PASS,Sie erhalten eine E-Mail mit einem Link zum Zurücksetzen Ihres Passworts.
+CURRENT_PASSWORD,Aktuelles Passwort
+ENTER_CURRENT_PASSWORD,Aktuelles Passwort eingeben
+NEW_PASSWORD,Neues Passwort
+ENTER_NEW_PASSWORD,Neues Passwort eingeben
+CONFIRM_NEW_PASSWORD,Neues Passwort bestätigen
+SAVE_V1,Speichern
+ALL_FIELDS_REQUIRED,Alle Felder sind Pflichtfelder.
+NEW_CONFIRM_PASS_NOT_MATCH,Neues Passwort und bestätigtes Passwort stimmen nicht überein.
+NEW_PASS_DIFFERENT_MSG,Das neue Passwort muss sich vom aktuellen Passwort unterscheiden.
+PASS_CHANGED_SUCCESSFULLY,Passwort erfolgreich geändert.
+SOMETHING_WENT_WRONG,Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.
+PASS_CHANGE_FAILED,Kennwortänderung fehlgeschlagen. Bitte überprüfen Sie Ihr aktuelles Kennwort.
+SIZE_SELECTED,Ausgewählte Größe
