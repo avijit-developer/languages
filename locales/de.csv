@@ -1,125 +1,125 @@
 ﻿SIGNIN,Anmelden
-DASHBOARD,Instrumententafel
+DASHBOARD,Dashboard
 SHOPPING,Einkaufen
 PARTNER_PROGRAM,Partnerprogramm
 TRAINING_AND_ONBOARDING_RESOURCES,Schulungs- und Onboarding-Ressourcen
 INVOICES,Rechnungen
-SALES_ORDERS,Kundenaufträge
-PRODUCT_INFORMATION,Produktinformation
+SALES_ORDERS,Bestellungen
+PRODUCT_INFORMATION,Produktinformationen
 MY_COMPANY,Mein Unternehmen
-CREDIT_NOTES,Gutscheine
+CREDIT_NOTES,Gutschriften
 ABOUT_US,Über uns
 BALANCE_SHEET,Bilanz
-MY_OPEN_ORDERS,MEINE OFFENEN AUFTRÄGE
-COUNT,ZÄHLEN
-AMOUNT,MENGE
+MY_OPEN_ORDERS,MEINE OFFENEN BESTELLUNGEN
+COUNT,ANZAHL
+AMOUNT,BETRAG
 MY_OPEN_INVOICES,MEINE OFFENEN RECHNUNGEN
-TOP_MOST PURCHASED_PRODUCTS,TOP 10 DER MEISTGEKAUFTEN PRODUKTE
-ORDERS,Aufträge
-ORDER_ID_SAP,Bestell-ID (SAP)
-ORDER_ID_ONLINE,Bestellnummer (online)
+TOP_MOST PURCHASED_PRODUCTS,TOP 10 MEISTGEKAUFTE PRODUKTE
+ORDERS,Bestellungen
+ORDER_ID_SAP,Bestellnummer (SAP)
+ORDER_ID_ONLINE,Bestellnummer (Online)
 STATUS,Status
 DATE,Datum
 ORDER_TOTAL,Gesamtbetrag der Bestellung
-PLEASE_ENTER_TO_DATE,Bitte geben Sie bis Datum ein
-PLEASE_ENTER_FROM_DATE,Bitte geben Sie das Datum ein
+PLEASE_ENTER_TO_DATE,Bitte geben Sie das Enddatum ein
+PLEASE_ENTER_FROM_DATE,Bitte geben Sie das Startdatum ein
 OPENED,Geöffnet
 CLOSED,Geschlossen
-CANCELLED,Abgebrochen
+CANCELLED,Storniert
 PARTIAL_PENDING,Teilweise ausstehend
-PENDING,Anhängig
+PENDING,Ausstehend
 PAID,Bezahlt
-FROM_DATE,Ab Datum
-TO_DATE,Bis heute
+FROM_DATE,Von-Datum
+TO_DATE,Bis-Datum
 SELECT_STATUS,Status auswählen
-NUMBER,Zahl
-ENTER_NUMBER,Anzahl eingeben
+NUMBER,Nummer
+ENTER_NUMBER,Nummer eingeben
 APPLY_FILTER,FILTER ANWENDEN
-CLEAR_FILTER,FILTER LÖSCHEN
-ORDER_DETAILS,Einzelheiten zur Bestellung
-ORDER_NO,Bestell-Nr
-ORDER_ITEMS,Positionen bestellen
-SKU_V1,SKU
+CLEAR_FILTER,FILTER ZURÜCKSETZEN
+ORDER_DETAILS,Bestelldetails
+ORDER_NO,Bestellnummer
+ORDER_ITEMS,Bestellartikel
+SKU_V1,Artikelnummer (SKU)
 PRICE,Preis
-QTY_V1,Qty
+QTY_V1,Menge
 TAX_V1,Steuer
 SUBTOTAL,Zwischensumme
-TOTAL_BEFORE_TAX,Gesamtbetrag vor Steuern
-TOTAL_TAX_AMOUNT,Gesamter Steuerbetrag
+TOTAL_BEFORE_TAX,Gesamtsumme vor Steuern
+TOTAL_TAX_AMOUNT,Gesamte Steuerbetrag
 GRAND_TOTAL,Gesamtsumme
 ORDER_INFORMATION,Bestellinformationen
 DELIVERY_ADDRESS,Lieferadresse
 BILLING_ADDRESS,Rechnungsadresse
-SHIPPING_METHOD,Versandmethode
+SHIPPING_METHOD,Versandart
 PAYMENT_METHOD,Zahlungsmethode
-DOWNLOAD_COMPLETE,Download komplett
+DOWNLOAD_COMPLETE,Download abgeschlossen
 DOWNLOAD_FAILED,Download fehlgeschlagen
-INVOICE_DETAILS,Details zur Rechnung
-BALANCE_DUE,Fälliger Restbetrag
+INVOICE_DETAILS,Rechnungsdetails
+BALANCE_DUE,Offener Betrag
 PAY_V1,Bezahlen
-INVOICE_ID,Rechnungs-ID
-CREDIT_NOTE_LIST,Liste der Gutschriften
-CREDIT_NOTE_NO,Gutschrift Nr
+INVOICE_ID,Rechnungsnummer
+CREDIT_NOTE_LIST,Gutschriftsliste
+CREDIT_NOTE_NO,Gutschriftsnummer
 CREDIT_NOTE_ONLINE,Gutschrift (Online)
 SHOW_LESS,Weniger anzeigen
 SHOW_MORE,Mehr anzeigen
-CREDIT_NOTE_DETAILS,Details zur Gutschrift
-HOME,HEIM
+CREDIT_NOTE_DETAILS,Gutschriftsdetails
+HOME,Startseite
 SELECT_ALL,Alles auswählen
-PAYMENT SUCCESSFUL,Zahlung erfolgreich
+PAYMENT_SUCCESSFUL,Zahlung erfolgreich
 CHOOSE_PAYMENT_METHOD,Zahlungsmethode auswählen
-PAYBLE_AMOUNT,Zahlbarer Betrag
+PAYBLE_AMOUNT,Zu zahlender Betrag
 SHIPMENT,Lieferung
 TRAINING_RESOURCES,Schulungsressourcen
 WATCH_VIDEO,Video ansehen
-WATCH,Betrachten
+WATCH,Ansehen
 DOWNLOAD,Herunterladen
 DOCUMENTATION,Dokumentation
-VIEW_V1,Sicht
+VIEW_V1,Anzeigen
 NEW_COLLECTION,Neue Kollektion
 PRODUCT_IMAGES,Produktbilder
 PRODUCT_CATALOGUE,Produktkatalog
-PRODUCT_PRICE_LIST,Produktpreisliste
+PRODUCT_PRICE_LIST,Preisliste
 PRODUCT_DESCRIPTION,Produktbeschreibung
 VIEW_PRODUCTS,Produkte anzeigen
 VIEW_IMAGES,Bilder anzeigen
-CONTACT_INFORMATION,Kontaktinformationen
-SALES_REPRESENTATIVE,AUSSENDIENSTMITARBEITER
-BUSINESS_DETAILS,
+CONTACT_INFORMATION,KONTAKTINFORMATIONEN
+SALES_REPRESENTATIVE,VERTRIEBSMITARBEITER
+BUSINESS_DETAILS,UNTERNEHMENSDETAILS
 SHIPPING_ADDRESS,Lieferadresse
 CREDIT,Kredit
-BALANCE,Gleichgewicht
-BUSINESS_USERS,GESCHÄFTSANWENDER
-COMPANY_NAME,Name der Firma
+BALANCE,Guthaben
+BUSINESS_USERS,UNTERNEHMENSBENUTZER
+COMPANY_NAME,Firmenname
 CONTACT_PERSON,Ansprechpartner
-TRACKINGID,Tracking-ID
+TRACKINGID,Sendungsnummer
 SHIPMENT_DETAILS,Versanddetails
-TRACKING,VERFOLGUNG
-SHIPMENT_LIST,Sendungsliste
+TRACKING,SENDUNGSVERFOLGUNG
+SHIPMENT_LIST,Versandliste
 APP_SETTINGS,App-Einstellungen
 PUSH_NOTIFICATION,Push-Benachrichtigung
-SIGNIN_ACCOUNT_FIRST,Bitte melden Sie sich zuerst bei Ihrem Konto an
+SIGNIN_ACCOUNT_FIRST,Bitte melden Sie sich zuerst in Ihrem Konto an
 EMAIL,E-Mail
 PASSWORD,Passwort
-FORGOT_PASSWORD,PASSWORT VERGESSEN?
-EMAIL_REQUIRED,Ungültige E-Mail. Bitte geben Sie eine gültige E-Mail-Adresse ein.
-PASSWORD_REQUIRED,Ungültiges Passwort. Bitte geben Sie ein gültiges Passwort ein.
-LOADING,Laden
+FORGOT_PASSWORD,Passwort vergessen?
+EMAIL_REQUIRED,"Ungültige E-Mail, bitte geben Sie eine gültige Adresse ein."
+PASSWORD_REQUIRED,"Ungültiges Passwort, bitte geben Sie ein gültiges Passwort ein."
+LOADING,Wird geladen
 CREDIT_LIMIT,Kreditlimit
 AVAILABLE_CREDIT_LIMIT,Verfügbares Kreditlimit
 YOUR_ACCOUNT,Ihr Konto
-OVERVIEW,Überblick
+OVERVIEW,Übersicht
 PERSONAL_DETAILS,Persönliche Daten
 PARTNER_PORTAL,Partnerportal
 MY_WISH_LIST,Meine Wunschliste
 ADDRESS_BOOK,Adressbuch
-REQUEST_FOR_LOGO,Logoanfrage
-FIND_SOMETHING,Finde etwas
-SALE,Verkauf
-LIMITED_COLLECTION_2026,Vorschau Limitierte Kollektion 2026
+REQUEST_FOR_LOGO,Logo anfordern
+FIND_SOMETHING,Suchen
+SALE,Sale
+LIMITED_COLLECTION_2026,Vorschau LIMITIERTE Kollektion 2026
 CONFIRM_ACTION,Aktion bestätigen
-WIST_DELETE_MSG,Möchten Sie dieses Produkt wirklich von Ihrer Wunschliste entfernen?
-CANCEL,Stornieren
+WIST_DELETE_MSG,Möchten Sie dieses Produkt wirklich aus Ihrer Wunschliste entfernen?
+CANCEL,Abbrechen
 YES,Ja
 MY_CART,Mein Warenkorb
 COLOR,Farbe
@@ -127,61 +127,61 @@ SIZE,Größe
 ADD_PROMO_CODE,Promo-Code hinzufügen
 ENTER_COUPON_CODE,Gutscheincode eingeben
 APPLY,ANWENDEN
-COUPON_APPLIED,Coupon angewendet
+COUPON_APPLIED,Gutschein angewendet
 REMOVE,Entfernen
-ADD_A_NOTE,Eine Notiz hinzufügen
+ADD_A_NOTE,Notiz hinzufügen
 DISCOUNT,Rabatt
 TOTAL,Gesamt
-PLACE_ORDER,Bestellung aufgeben
+PLACE_ORDER,Bestellung abschließen
 YOUR_CART_EMPTY,Ihr Warenkorb ist leer
 CONTINUE_SHIPPING,Weiter einkaufen
-ALL_PRODUCT_DELETE_MSG,Möchten Sie wirklich alle Produkte aus Ihrem Warenkorb entfernen?
+ALL_PRODUCT_DELETE_MSG,Möchten Sie wirklich alle Produkte aus dem Warenkorb entfernen?
 SUCCESSFULLY_REMOVED,Erfolgreich entfernt
-PRODUCT_DELETE_MSG,Möchten Sie dieses Produkt wirklich aus Ihrem Warenkorb entfernen?
+PRODUCT_DELETE_MSG,Möchten Sie dieses Produkt wirklich aus dem Warenkorb entfernen?
 SUCCESSFULLY_ADDED,Erfolgreich hinzugefügt
 CHOOSE_SIZE,Größe wählen
-ADDED_ITEM,Hinzugefügter Artikel
-ADD_TO_BAG,In den Warenkorb
-DISCOUNT_APPLICABLE_MSG,Hinweis: Der oben genannte Rabatt gilt nur für die gleiche Farbe und Größe.
+ADDED_ITEM,Artikel hinzugefügt
+ADD_TO_BAG,In den Warenkorb legen
+DISCOUNT_APPLICABLE_MSG,Hinweis: Der oben genannte Rabatt gilt nur für gleiche Farbe und Größe
 DELIVERY_BETWEEN_WEEKS,Lieferzeit zwischen 2 und 4 Wochen
 CHECK_AVAILABILITY,Verfügbarkeit prüfen
-THIS_IS_REQUIRED_FIELD,Dies ist ein Pflichtfeld.
-SELECT_SIZE,Wählen Sie eine Größe
+THIS_IS_REQUIRED_FIELD,Dieses Feld ist erforderlich.
+SELECT_SIZE,Größe auswählen
 DETAILS,Details
 ITEM_ADDED_SUCCESSFULLY,Artikel erfolgreich hinzugefügt
-CHOOSE_SIZE,Wählen Sie die Größe
-EACH_AND_SAVE,jeweils und speichern
-BUY,Kaufen
+CHOOSE_SIZE,Größe auswählen
+EACH_AND_SAVE,jeweils und sparen
+Buy,Kaufen
 FOR,für
 INVALID_COUPN,Ungültiger Gutschein
 SUCCESSFULLY_UPDATED,Erfolgreich aktualisiert
 DISCOUNT_ADDED,Rabatt hinzugefügt
 DISCOUNT_REMOVED,Rabatt entfernt
-CHOOSE_DELIVERY_OPTIONS,Bitte wählen Sie eine Lieferoption für fehlende Artikel:
+CHOOSE_DELIVERY_OPTIONS,Bitte wählen Sie eine Versandoption für fehlende Artikel:
 ACCEPT_TERMS_CONDITIONS,Ich akzeptiere die Allgemeinen Geschäftsbedingungen
-AGREED_PAYMENT_TERMS,Es gelten die vereinbarten Zahlungsbedingungen
+AGREED_PAYMENT_TERMS,Vereinbarte Zahlungsbedingungen gelten
 SHIPPING_COSTS,Versandkosten
-CART_SUBTOTAL,Warenkorb-Zwischensumme
+CART_SUBTOTAL,Warenkorb Zwischensumme
 SHIPPING_V1,Versand
-CHANGE_PASSWORD,Kennwort ändern
-ACCOUNT_DELETION,Kontolöschung
+CHANGE_PASSWORD,Passwort ändern
+ACCOUNT_DELETION,Konto löschen
 DELETE_DATA,Daten anfordern oder löschen
 SIGNOUT,Abmelden
 ORDERS_LIST,Bestellliste
-ORDER_V1,Befehl
-REORDER,Neu anordnen
+ORDER_V1,Bestellung
+REORDER,Erneut bestellen
 ORDER_DATE,Bestelldatum
 COMMENTS_V1,Kommentar
 ITEM_ORDERED,Bestellte Artikel
 ORDER_SUMMARY,Bestellübersicht
 QUANTITY_V1,Menge
 ADDRESS_LIST,Adressliste
-DEFAULT_SHIPPING_ADDRESS,Standardlieferadresse
+DEFAULT_SHIPPING_ADDRESS,Standard-Lieferadresse
 DEFAULT_BILLING_ADDRESS,Standard-Rechnungsadresse
 NO_ITEM_FOUND,Kein Artikel gefunden
 REQUEST_V1,Anfrage
-SAVED_TO,Gespeichert in:
-FAILED_DOWNLOAD_IMAGE,Das Herunterladen des Bildes ist fehlgeschlagen.
+SAVED_TO,Gespeichert unter:
+FAILED_DOWNLOAD_IMAGE,Bild konnte nicht heruntergeladen werden.
 FILTERS_V1,Filter
 ALL_FILTERS,Alle Filter
 NO_NOTIFICATION_FOUND,Noch keine Benachrichtigungen
@@ -190,13 +190,13 @@ CLEAR_ALL,Alle löschen
 NOTIFICATION_V1,Benachrichtigung
 NO_INTERNET_CONNECTION,Keine Internetverbindung
 CHECK_YOUR_CONNECTION,Bitte überprüfen Sie Ihre Verbindung und versuchen Sie es erneut.
-ENTER_EMAIL_TO_GET_PASS,"Bitte geben Sie Ihre E-Mail-Adresse ein, um einen Link zum Zurücksetzen des Passworts zu erhalten."
+ENTER_EMAIL_TO_GET_PASS,"Bitte geben Sie Ihre E-Mail-Adresse ein, um den Link zum Zurücksetzen Ihres Passworts zu erhalten."
 LANGUAGE,Sprache
 CAPTCHA,Captcha
-RESET_MY_PASSWORD,Reset my password
+RESET_MY_PASSWORD,Passwort zurücksetzen
 ERROR_V1,Fehler
-INCORRECT_CAPTCHA,Falsches CAPTCHA. Versuchen Sie es erneut.
-ENTER_VALID_EMAIL,Ungültige E-Mail. Bitte geben Sie eine gültige E-Mail-Adresse ein.
+INCORRECT_CAPTCHA,"Falsches CAPTCHA, bitte erneut versuchen."
+ENTER_VALID_EMAIL,"Ungültige E-Mail, bitte geben Sie eine gültige Adresse ein."
 EMAIL_RECEIVED_RESET_PASS,Sie erhalten eine E-Mail mit einem Link zum Zurücksetzen Ihres Passworts.
 CURRENT_PASSWORD,Aktuelles Passwort
 ENTER_CURRENT_PASSWORD,Aktuelles Passwort eingeben
@@ -204,10 +204,22 @@ NEW_PASSWORD,Neues Passwort
 ENTER_NEW_PASSWORD,Neues Passwort eingeben
 CONFIRM_NEW_PASSWORD,Neues Passwort bestätigen
 SAVE_V1,Speichern
-ALL_FIELDS_REQUIRED,Alle Felder sind Pflichtfelder.
-NEW_CONFIRM_PASS_NOT_MATCH,Neues Passwort und bestätigtes Passwort stimmen nicht überein.
-NEW_PASS_DIFFERENT_MSG,Das neue Passwort muss sich vom aktuellen Passwort unterscheiden.
+ALL_FIELDS_REQUIRED,Alle Felder sind erforderlich.
+NEW_CONFIRM_PASS_NOT_MATCH,Neues Passwort und Bestätigung stimmen nicht überein.
+NEW_PASS_DIFFERENT_MSG,Neues Passwort muss sich vom aktuellen unterscheiden.
 PASS_CHANGED_SUCCESSFULLY,Passwort erfolgreich geändert.
-SOMETHING_WENT_WRONG,Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.
-PASS_CHANGE_FAILED,Kennwortänderung fehlgeschlagen. Bitte überprüfen Sie Ihr aktuelles Kennwort.
-SIZE_SELECTED,Ausgewählte Größe
+SOMETHING_WENT_WRONG,Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.
+PASS_CHANGE_FAILED,Passwort konnte nicht geändert werden. Bitte prüfen Sie Ihr aktuelles Passwort.
+SIZE_SELECTED,Größe ausgewählt
+USER_DELETE_MSG,Möchten Sie Ihr Konto wirklich löschen?
+VIDEO_V1,Video
+SUBMIT_V1,Absenden
+DELIVERED_ON,Geliefert am
+RECEIVED_BY,Erhalten von
+SHIPMENT_FROM,Versendet von
+SHIP_TO,Versendet an
+ESTIMATE_DELIVERY,Voraussichtliche Lieferung
+SELECT_PAYMENT_METHOD,Bitte wählen Sie eine Zahlungsmethode
+CHECK_TERMS_CONDITION,Bitte akzeptieren Sie die Allgemeinen Geschäftsbedingungen
+SEEMS_NOTHING_HERE,Hier ist scheinbar nichts drin.
+MY_ACCOUNT,Mein Konto

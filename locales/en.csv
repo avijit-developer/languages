@@ -1,4 +1,4 @@
-SIGNIN,Sigh In
+SIGNIN,Sign In
 DASHBOARD,Dashboard
 SHOPPING,Shopping
 PARTNER_PROGRAM,Partner program
@@ -211,3 +211,15 @@ PASS_CHANGED_SUCCESSFULLY,Password changed successfully.
 SOMETHING_WENT_WRONG,Something went wrong. Please try again.
 PASS_CHANGE_FAILED,Failed to change password. Please check your current password.
 SIZE_SELECTED,Size Selected
+USER_DELETE_MSG,Are you sure you want to delete your account?
+VIDEO_V1,Video
+SUBMIT_V1,Submit
+DELIVERED_ON,Delivered On
+RECEIVED_BY,Received By
+SHIPMENT_FROM,Shipment from
+SHIP_TO,Ship To
+ESTIMATE_DELIVERY,Estimated delivery
+SELECT_PAYMENT_METHOD,Please Select Payment Method
+CHECK_TERMS_CONDITION,Please check terms and conditions
+SEEMS_NOTHING_HERE,It seems nothing in here.
+MY_ACCOUNT,My Account
