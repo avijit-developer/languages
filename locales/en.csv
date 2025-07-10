@@ -106,7 +106,7 @@ EMAIL_REQUIRED,"Invalid Email, Please enter a valid email address."
 PASSWORD_REQUIRED,"Invalid Password, Please enter a valid password."
 LOADING,Loading
 CREDIT_LIMIT,Credit Limit
-AVAILABLE_CREDIT_LIMIT,Available credit limit
+AVAILABLE_CREDIT_LIMIT,Available
 YOUR_ACCOUNT,Your Account
 OVERVIEW,Overview
 PERSONAL_DETAILS,Personal Details
@@ -223,3 +223,9 @@ SELECT_PAYMENT_METHOD,Please Select Payment Method
 CHECK_TERMS_CONDITION,Please check terms and conditions
 SEEMS_NOTHING_HERE,It seems nothing in here.
 MY_ACCOUNT,My Account
+UPDATE_FAILED,Update Failed
+SEARCH_V1,Search
+CLEAR,Clear
+PREVIOUS_SEARCHES,Previous Search
+PAYMENT_FAILED,Payment Failed
+COVERS,Covers

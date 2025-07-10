@@ -106,7 +106,7 @@ EMAIL_REQUIRED,"Ungültige E-Mail, bitte geben Sie eine gültige Adresse ein."
 PASSWORD_REQUIRED,"Ungültiges Passwort, bitte geben Sie ein gültiges Passwort ein."
 LOADING,Wird geladen
 CREDIT_LIMIT,Kreditlimit
-AVAILABLE_CREDIT_LIMIT,Verfügbares Kreditlimit
+AVAILABLE_CREDIT_LIMIT,Verfügbar
 YOUR_ACCOUNT,Ihr Konto
 OVERVIEW,Übersicht
 PERSONAL_DETAILS,Persönliche Daten
@@ -223,3 +223,9 @@ SELECT_PAYMENT_METHOD,Bitte wählen Sie eine Zahlungsmethode
 CHECK_TERMS_CONDITION,Bitte akzeptieren Sie die Allgemeinen Geschäftsbedingungen
 SEEMS_NOTHING_HERE,Hier ist scheinbar nichts drin.
 MY_ACCOUNT,Mein Konto
+UPDATE_FAILED,Aktualisierung fehlgeschlagen
+SEARCH_V1,Suchen
+CLEAR,Löschen
+PREVIOUS_SEARCHES,Frühere Suche
+PAYMENT_FAILED,Zahlung fehlgeschlagen
+COVERS,Abdeckungen
