@@ -234,3 +234,12 @@ RESET,Reset
 SHOW_ALL_RESULT,Show All Results
 SHOW_V1,Show
 RESULT,Result
+CATEGORIES,Categories
+DELIVERY_AVAILABILITY,Delivery Availability
+ITEM_V1,Item
+WILL_BE_AVAILABLE,will be available on
+WITH_QUANTITY,with the quantity
+CLOSE_V1,Close
+CHECK_AVAILABILITY_EMPTY_MSG,No data found
+PARTIAL_DELIVERY,Partial Delivery
+DELAYED_DELIVERY,Delayed Delivery

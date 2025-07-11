@@ -234,3 +234,12 @@ RESET,Reimposta
 SHOW_ALL_RESULT,Mostra tutti i risultati
 SHOW_V1,Mostra
 RESULT,Risultato
+CATEGORIES,Categorie
+DELIVERY_AVAILABILITY,Disponibilità di consegna
+ITEM_V1,Articolo
+WILL_BE_AVAILABLE,Sarà disponibile il
+WITH_QUANTITY,con la quantità
+CLOSE_V1,Chiudi
+CHECK_AVAILABILITY_EMPTY_MSG,Nessun dato trovato
+PARTIAL_DELIVERY,Consegna parziale
+DELAYED_DELIVERY,Consegna ritardata
