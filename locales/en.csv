@@ -151,7 +151,7 @@ DETAILS,Details
 ITEM_ADDED_SUCCESSFULLY,Items added successfully
 CHOOSE_SIZE,Choose The Size
 EACH_AND_SAVE,each and save
-Buy,Buy
+BUY,Buy
 FOR,for
 INVALID_COUPN,Invalid Coupon
 SUCCESSFULLY_UPDATED,Successfully Updated
@@ -243,3 +243,4 @@ CLOSE_V1,Close
 CHECK_AVAILABILITY_EMPTY_MSG,No data found
 PARTIAL_DELIVERY,Partial Delivery
 DELAYED_DELIVERY,Delayed Delivery
+PAYMENT,Payment

@@ -151,7 +151,7 @@ DETAILS,Details
 ITEM_ADDED_SUCCESSFULLY,Artikel erfolgreich hinzugefügt
 CHOOSE_SIZE,Größe auswählen
 EACH_AND_SAVE,jeweils und sparen
-Buy,Kaufen
+BUY,Kaufen
 FOR,für
 INVALID_COUPN,Ungültiger Gutschein
 SUCCESSFULLY_UPDATED,Erfolgreich aktualisiert
@@ -243,3 +243,4 @@ CLOSE_V1,Schließen
 CHECK_AVAILABILITY_EMPTY_MSG,Keine Daten gefunden
 PARTIAL_DELIVERY,Teillieferung
 DELAYED_DELIVERY,Verzögerte Lieferung
+PAYMENT,Zahlung
