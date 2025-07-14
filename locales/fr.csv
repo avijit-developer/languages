@@ -133,7 +133,7 @@ ADD_A_NOTE,Ajouter une note
 DISCOUNT,Remise
 TOTAL,Total
 PLACE_ORDER,Passer la commande
-YOUR_CART_EMPTY,Votre panier est vide
+YOUR_CART_EMPTY,Vous n�avez aucun article dans votre panier.
 CONTINUE_SHIPPING,Continuer vos achats
 ALL_PRODUCT_DELETE_MSG,Êtes-vous sûr de vouloir supprimer tous les produits de votre panier ?
 SUCCESSFULLY_REMOVED,Supprimé avec succès

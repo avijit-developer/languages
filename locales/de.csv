@@ -133,7 +133,7 @@ ADD_A_NOTE,Notiz hinzufügen
 DISCOUNT,Rabatt
 TOTAL,Gesamt
 PLACE_ORDER,Bestellung abschließen
-YOUR_CART_EMPTY,Ihr Warenkorb ist leer
+YOUR_CART_EMPTY,Sie haben keine Artikel in Ihrem Warenkorb.
 CONTINUE_SHIPPING,Weiter einkaufen
 ALL_PRODUCT_DELETE_MSG,Möchten Sie wirklich alle Produkte aus dem Warenkorb entfernen?
 SUCCESSFULLY_REMOVED,Erfolgreich entfernt

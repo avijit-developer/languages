@@ -133,7 +133,7 @@ ADD_A_NOTE,Agregar una nota
 DISCOUNT,Descuento  
 TOTAL,Total  
 PLACE_ORDER,Realizar pedido  
-YOUR_CART_EMPTY,Tu carrito está vacío  
+YOUR_CART_EMPTY,No tienes art�culos en tu carrito de compras.
 CONTINUE_SHIPPING,Continuar comprando  
 ALL_PRODUCT_DELETE_MSG,¿Estás seguro de que deseas eliminar todos los productos de tu carrito?  
 SUCCESSFULLY_REMOVED,Eliminado con éxito  

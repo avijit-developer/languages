@@ -133,7 +133,7 @@ ADD_A_NOTE,Add a note
 DISCOUNT,Discount
 TOTAL,Total
 PLACE_ORDER,Place Order
-YOUR_CART_EMPTY,Your cart is empty
+YOUR_CART_EMPTY,You have no items in your shopping cart.
 CONTINUE_SHIPPING,Continue Shopping
 ALL_PRODUCT_DELETE_MSG,Are you sure to remove all products from your cart?
 SUCCESSFULLY_REMOVED,Successfully Removed

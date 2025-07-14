@@ -133,7 +133,7 @@ ADD_A_NOTE,Aggiungi una nota
 DISCOUNT,Sconto
 TOTAL,Totale
 PLACE_ORDER,Effettua ordine
-YOUR_CART_EMPTY,Il tuo carrello è vuoto
+YOUR_CART_EMPTY,Non hai articoli nel tuo carrello.
 CONTINUE_SHIPPING,Continua lo shopping
 ALL_PRODUCT_DELETE_MSG,Sei sicuro di voler rimuovere tutti i prodotti dal carrello?
 SUCCESSFULLY_REMOVED,Rimosso con successo
