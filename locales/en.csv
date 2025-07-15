@@ -244,3 +244,5 @@ CHECK_AVAILABILITY_EMPTY_MSG,No data found
 PARTIAL_DELIVERY,Partial Delivery
 DELAYED_DELIVERY,Delayed Delivery
 PAYMENT,Payment
+UPDATE_REQUIRED,Update Required
+UPDATE_REQUIRED_MSG,A new version is available. Please update the app to continue.

@@ -1,4 +1,4 @@
-﻿SIGNIN,Anmelden
+SIGNIN,Anmelden
 DASHBOARD,Dashboard
 SHOPPING,Einkaufen
 PARTNER_PROGRAM,Partnerprogramm
@@ -244,3 +244,5 @@ CHECK_AVAILABILITY_EMPTY_MSG,Keine Daten gefunden
 PARTIAL_DELIVERY,Teillieferung
 DELAYED_DELIVERY,Verzögerte Lieferung
 PAYMENT,Zahlung
+UPDATE_REQUIRED,Aktualisierung erforderlich
+UPDATE_REQUIRED_MSG,"Eine neue Version ist verfügbar. Bitte aktualisiere die App, um fortzufahren."
