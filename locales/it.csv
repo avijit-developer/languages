@@ -246,3 +246,4 @@ DELAYED_DELIVERY,Consegna ritardata
 PAYMENT,Pagamento
 UPDATE_REQUIRED,Aggiornamento richiesto
 UPDATE_REQUIRED_MSG,È disponibile una nuova versione. Aggiorna l’app per continuare.
+UPDATE_NOW,Aggiorna ora

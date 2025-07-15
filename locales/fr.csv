@@ -246,3 +246,4 @@ DELAYED_DELIVERY,Livraison retardÃ©e
 PAYMENT,Paiement
 UPDATE_REQUIRED,Mise à jour requise
 UPDATE_REQUIRED_MSG,Une nouvelle version est disponible. Veuillez mettre à jour l’application pour continuer.
+UPDATE_NOW,Mettre à jour maintenant

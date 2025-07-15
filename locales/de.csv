@@ -246,3 +246,4 @@ DELAYED_DELIVERY,Verzögerte Lieferung
 PAYMENT,Zahlung
 UPDATE_REQUIRED,Aktualisierung erforderlich
 UPDATE_REQUIRED_MSG,"Eine neue Version ist verfügbar. Bitte aktualisiere die App, um fortzufahren."
+UPDATE_NOW,Jetzt aktualisieren
