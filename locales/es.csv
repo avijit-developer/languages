@@ -1,20 +1,20 @@
-SIGNIN,Iniciar sesión  
+SIGNIN,Iniciar sesiÃ³n  
 DASHBOARD,Panel de control  
 SHOPPING,Compras  
 PARTNER_PROGRAM,Programa de socios  
-TRAINING_AND_ONBOARDING_RESOURCES,Recursos de formación y incorporación  
+TRAINING_AND_ONBOARDING_RESOURCES,Recursos de formaciÃ³n y incorporaciÃ³n  
 INVOICES,Facturas  
 SALES_ORDERS,Pedidos de venta  
-PRODUCT_INFORMATION,Información del producto  
+PRODUCT_INFORMATION,InformaciÃ³n del producto  
 MY_COMPANY,Mi empresa  
-CREDIT_NOTES,Notas de crédito  
+CREDIT_NOTES,Notas de crÃ©dito  
 ABOUT_US,Sobre nosotros  
 BALANCE_SHEET,Balance general  
 MY_OPEN_ORDERS,MIS PEDIDOS ABIERTOS  
 COUNT,Cantidad  
 AMOUNT,Importe  
 MY_OPEN_INVOICES,MIS FACTURAS ABIERTAS  
-TOP_MOST PURCHASED_PRODUCTS,TOP 10 PRODUCTOS MÁS COMPRADOS  
+TOP_MOST PURCHASED_PRODUCTS,TOP 10 PRODUCTOS MÃ�S COMPRADOS  
 ORDERS,Pedidos  
 ORDER_ID_SAP,ID del pedido (SAP)  
 ORDER_ID_ONLINE,ID del pedido (Online)  
@@ -32,13 +32,13 @@ PAID,Pagado
 FROM_DATE,Desde la fecha  
 TO_DATE,Hasta la fecha  
 SELECT_STATUS,Seleccionar estado  
-NUMBER,Número  
-ENTER_NUMBER,Ingrese el número  
+NUMBER,NÃºmero  
+ENTER_NUMBER,Ingrese el nÃºmero  
 APPLY_FILTER,APLICAR FILTRO  
 CLEAR_FILTER,LIMPIAR FILTRO  
 ORDER_DETAILS,Detalles del pedido  
-ORDER_NO,N.º de pedido  
-ORDER_ITEMS,Artículos del pedido  
+ORDER_NO,N.Âº de pedido  
+ORDER_ITEMS,ArtÃ­culos del pedido  
 SKU_V1,SKU  
 PRICE,Precio  
 QTY_V1,Cantidad  
@@ -47,65 +47,65 @@ SUBTOTAL,Subtotal
 TOTAL_BEFORE_TAX,Total antes de impuestos  
 TOTAL_TAX_AMOUNT,Importe total de impuestos  
 GRAND_TOTAL,Total general  
-ORDER_INFORMATION,Información del pedido  
-DELIVERY_ADDRESS,Dirección de entrega  
-BILLING_ADDRESS,Dirección de facturación  
-SHIPPING_METHOD,Método de envío  
-PAYMENT_METHOD,Método de pago  
+ORDER_INFORMATION,InformaciÃ³n del pedido  
+DELIVERY_ADDRESS,DirecciÃ³n de entrega  
+BILLING_ADDRESS,DirecciÃ³n de facturaciÃ³n  
+SHIPPING_METHOD,MÃ©todo de envÃ­o  
+PAYMENT_METHOD,MÃ©todo de pago  
 DOWNLOAD_COMPLETE,Descarga completa  
 DOWNLOAD_FAILED,Descarga fallida  
 INVOICE_DETAILS,Detalles de la factura  
 BALANCE_DUE,Saldo pendiente  
 PAY_V1,Pagar  
 INVOICE_ID,ID de factura  
-CREDIT_NOTE_LIST,Lista de notas de crédito  
-CREDIT_NOTE_NO,N.º de nota de crédito  
-CREDIT_NOTE_ONLINE,Nota de crédito (Online)  
+CREDIT_NOTE_LIST,Lista de notas de crÃ©dito  
+CREDIT_NOTE_NO,N.Âº de nota de crÃ©dito  
+CREDIT_NOTE_ONLINE,Nota de crÃ©dito (Online)  
 SHOW_LESS,Mostrar menos  
-SHOW_MORE,Mostrar más  
-CREDIT_NOTE_DETAILS,Detalles de la nota de crédito  
+SHOW_MORE,Mostrar mÃ¡s  
+CREDIT_NOTE_DETAILS,Detalles de la nota de crÃ©dito  
 HOME,Inicio  
 SELECT_ALL,Seleccionar todo  
 PAYMENT_SUCCESSFUL,Pago exitoso  
-CHOOSE_PAYMENT_METHOD,Elegir método de pago  
+CHOOSE_PAYMENT_METHOD,Elegir mÃ©todo de pago  
 PAYBLE_AMOUNT,Importe a pagar  
-SHIPMENT,Envío  
-TRAINING_RESOURCES,Recursos de formación  
+SHIPMENT,EnvÃ­o  
+TRAINING_RESOURCES,Recursos de formaciÃ³n  
 WATCH_VIDEO,Ver video  
 WATCH,Ver  
 DOWNLOAD,Descargar  
-DOCUMENTATION,Documentación  
+DOCUMENTATION,DocumentaciÃ³n  
 VIEW_V1,Ver  
-NEW_COLLECTION,Nueva colección  
-PRODUCT_IMAGES,Imágenes del producto  
-PRODUCT_CATALOGUE,Catálogo de productos  
+NEW_COLLECTION,Nueva colecciÃ³n  
+PRODUCT_IMAGES,ImÃ¡genes del producto  
+PRODUCT_CATALOGUE,CatÃ¡logo de productos  
 PRODUCT_PRICE_LIST,Lista de precios del producto  
-PRODUCT_DESCRIPTION,Descripción del producto  
+PRODUCT_DESCRIPTION,DescripciÃ³n del producto  
 VIEW_PRODUCTS,Ver productos  
-VIEW_IMAGES,Ver imágenes  
-CONTACT_INFORMATION,INFORMACIÓN DE CONTACTO  
+VIEW_IMAGES,Ver imÃ¡genes  
+CONTACT_INFORMATION,INFORMACIÃ“N DE CONTACTO  
 SALES_REPRESENTATIVE,REPRESENTANTE DE VENTAS  
 BUSINESS_DETAILS,DETALLES DE LA EMPRESA  
-SHIPPING_ADDRESS,Dirección de envío  
-CREDIT,Crédito  
+SHIPPING_ADDRESS,DirecciÃ³n de envÃ­o  
+CREDIT,CrÃ©dito  
 BALANCE,Saldo  
 BUSINESS_USERS,USUARIOS DE LA EMPRESA  
 COMPANY_NAME,Nombre de la empresa  
 CONTACT_PERSON,Persona de contacto  
 TRACKINGID,ID de seguimiento  
-SHIPMENT_DETAILS,Detalles del envío  
+SHIPMENT_DETAILS,Detalles del envÃ­o  
 TRACKING,SEGUIMIENTO  
-SHIPMENT_LIST,Lista de envíos  
-APP_SETTINGS,Configuración de la app  
+SHIPMENT_LIST,Lista de envÃ­os  
+APP_SETTINGS,ConfiguraciÃ³n de la app  
 PUSH_NOTIFICATION,Notificaciones push  
-SIGNIN_ACCOUNT_FIRST,Por favor inicia sesión en tu cuenta primero
-EMAIL,Correo electrónico  
-PASSWORD,Contraseña  
-FORGOT_PASSWORD,¿Olvidaste tu contraseña?  
-EMAIL_REQUIRED,"Correo inválido, por favor ingrese un correo válido.  "
-PASSWORD_REQUIRED,"Contraseña inválida, por favor ingrese una contraseña válida.  "
+SIGNIN_ACCOUNT_FIRST,Por favor inicia sesiÃ³n en tu cuenta primero
+EMAIL,Correo electrÃ³nico  
+PASSWORD,ContraseÃ±a  
+FORGOT_PASSWORD,Â¿Olvidaste tu contraseÃ±a?  
+EMAIL_REQUIRED,"Correo invÃ¡lido, por favor ingrese un correo vÃ¡lido.  "
+PASSWORD_REQUIRED,"ContraseÃ±a invÃ¡lida, por favor ingrese una contraseÃ±a vÃ¡lida.  "
 LOADING,Cargando  
-CREDIT_LIMIT,Límite de crédito  
+CREDIT_LIMIT,LÃ­mite de crÃ©dito  
 AVAILABLE_CREDIT_LIMIT,Disponible
 YOUR_ACCOUNT,Tu cuenta  
 OVERVIEW,Resumen  
@@ -116,31 +116,31 @@ ADDRESS_BOOK,Libreta de direcciones
 REQUEST_FOR_LOGO,Solicitar logo  
 FIND_SOMETHING,Buscar algo  
 SALE,Oferta  
-LIMITED_COLLECTION_2026,Vista previa Colección Limitada 2026  
-CONFIRM_ACTION,Confirmar acción  
-WIST_DELETE_MSG,¿Estás seguro de que deseas eliminar este producto de tu lista de deseos?  
+LIMITED_COLLECTION_2026,Vista previa ColecciÃ³n Limitada 2026  
+CONFIRM_ACTION,Confirmar acciÃ³n  
+WIST_DELETE_MSG,Â¿EstÃ¡s seguro de que deseas eliminar este producto de tu lista de deseos?  
 CANCEL,Cancelar  
-YES,Sí  
+YES,SÃ­  
 MY_CART,Mi carrito  
 COLOR,Color  
 SIZE,Talla  
-ADD_PROMO_CODE,Agregar código promocional  
-ENTER_COUPON_CODE,Ingresar código de cupón  
+ADD_PROMO_CODE,Agregar cÃ³digo promocional  
+ENTER_COUPON_CODE,Ingresar cÃ³digo de cupÃ³n  
 APPLY,APLICAR  
-COUPON_APPLIED,Cupón aplicado  
+COUPON_APPLIED,CupÃ³n aplicado  
 REMOVE,Eliminar  
 ADD_A_NOTE,Agregar una nota  
 DISCOUNT,Descuento  
 TOTAL,Total  
 PLACE_ORDER,Realizar pedido  
-YOUR_CART_EMPTY,No tienes art�culos en tu carrito de compras.
+YOUR_CART_EMPTY,No tienes artículos en tu carrito de compras.
 CONTINUE_SHIPPING,Continuar comprando  
-ALL_PRODUCT_DELETE_MSG,¿Estás seguro de que deseas eliminar todos los productos de tu carrito?  
-SUCCESSFULLY_REMOVED,Eliminado con éxito  
-PRODUCT_DELETE_MSG,¿Estás seguro de que deseas eliminar este producto de tu carrito?  
-SUCCESSFULLY_ADDED,Agregado con éxito  
+ALL_PRODUCT_DELETE_MSG,Â¿EstÃ¡s seguro de que deseas eliminar todos los productos de tu carrito?  
+SUCCESSFULLY_REMOVED,Eliminado con Ã©xito  
+PRODUCT_DELETE_MSG,Â¿EstÃ¡s seguro de que deseas eliminar este producto de tu carrito?  
+SUCCESSFULLY_ADDED,Agregado con Ã©xito  
 CHOOSE_SIZE,Elegir talla  
-ADDED_ITEM,Artículo agregado  
+ADDED_ITEM,ArtÃ­culo agregado  
 ADD_TO_BAG,Agregar a la bolsa  
 DISCOUNT_APPLICABLE_MSG,Nota: el descuento anterior solo se aplica al mismo color y talla  
 DELIVERY_BETWEEN_WEEKS,Tiempo de entrega entre 2 a 4 semanas  
@@ -148,85 +148,85 @@ CHECK_AVAILABILITY,Verificar disponibilidad
 THIS_IS_REQUIRED_FIELD,Este campo es obligatorio.  
 SELECT_SIZE,Seleccionar una talla  
 DETAILS,Detalles  
-ITEM_ADDED_SUCCESSFULLY,Artículos agregados exitosamente  
+ITEM_ADDED_SUCCESSFULLY,ArtÃ­culos agregados exitosamente  
 CHOOSE_SIZE,Elige la talla  
 EACH_AND_SAVE,cada uno y ahorra  
 BUY,Comprar  
 FOR,por  
-INVALID_COUPN,Cupón inválido  
-SUCCESSFULLY_UPDATED,Actualizado con éxito  
+INVALID_COUPN,CupÃ³n invÃ¡lido  
+SUCCESSFULLY_UPDATED,Actualizado con Ã©xito  
 DISCOUNT_ADDED,Descuento agregado  
 DISCOUNT_REMOVED,Descuento eliminado  
-CHOOSE_DELIVERY_OPTIONS,Por favor elige una opción de entrega para los artículos faltantes:  
-ACCEPT_TERMS_CONDITIONS,Acepto los términos y condiciones  
+CHOOSE_DELIVERY_OPTIONS,Por favor elige una opciÃ³n de entrega para los artÃ­culos faltantes:  
+ACCEPT_TERMS_CONDITIONS,Acepto los tÃ©rminos y condiciones  
 AGREED_PAYMENT_TERMS,Se aplican las condiciones de pago acordadas  
-SHIPPING_COSTS,Costos de envío  
+SHIPPING_COSTS,Costos de envÃ­o  
 CART_SUBTOTAL,Subtotal del carrito  
-SHIPPING_V1,Envío  
-CHANGE_PASSWORD,Cambiar contraseña  
-ACCOUNT_DELETION,Eliminación de cuenta  
+SHIPPING_V1,EnvÃ­o  
+CHANGE_PASSWORD,Cambiar contraseÃ±a  
+ACCOUNT_DELETION,EliminaciÃ³n de cuenta  
 DELETE_DATA,Solicitar o eliminar datos  
-SIGNOUT,Cerrar sesión  
+SIGNOUT,Cerrar sesiÃ³n  
 ORDERS_LIST,Lista de pedidos  
 ORDER_V1,Pedido  
 REORDER,Reordenar  
 ORDER_DATE,Fecha de pedido  
 COMMENTS_V1,Comentario  
-ITEM_ORDERED,Artículos pedidos  
+ITEM_ORDERED,ArtÃ­culos pedidos  
 ORDER_SUMMARY,Resumen del pedido  
 QUANTITY_V1,Cantidad  
 ADDRESS_LIST,Lista de direcciones  
-DEFAULT_SHIPPING_ADDRESS,Dirección de envío predeterminada  
-DEFAULT_BILLING_ADDRESS,Dirección de facturación predeterminada  
-NO_ITEM_FOUND,No se encontró ningún elemento  
+DEFAULT_SHIPPING_ADDRESS,DirecciÃ³n de envÃ­o predeterminada  
+DEFAULT_BILLING_ADDRESS,DirecciÃ³n de facturaciÃ³n predeterminada  
+NO_ITEM_FOUND,No se encontrÃ³ ningÃºn elemento  
 REQUEST_V1,Solicitud  
 SAVED_TO,Guardado en:  
 FAILED_DOWNLOAD_IMAGE,No se pudo descargar la imagen.  
 FILTERS_V1,Filtros  
 ALL_FILTERS,Todos los filtros  
-NO_NOTIFICATION_FOUND,Aún no hay notificaciones  
-MARK_ALL_AS_READ,Marcar todo como leído  
+NO_NOTIFICATION_FOUND,AÃºn no hay notificaciones  
+MARK_ALL_AS_READ,Marcar todo como leÃ­do  
 CLEAR_ALL,Borrar todo  
-NOTIFICATION_V1,Notificación  
-NO_INTERNET_CONNECTION,Sin conexión a Internet  
-CHECK_YOUR_CONNECTION,Por favor verifica tu conexión e intenta de nuevo.  
-ENTER_EMAIL_TO_GET_PASS,Por favor ingresa tu correo electrónico para recibir un enlace de restablecimiento de contraseña.  
+NOTIFICATION_V1,NotificaciÃ³n  
+NO_INTERNET_CONNECTION,Sin conexiÃ³n a Internet  
+CHECK_YOUR_CONNECTION,Por favor verifica tu conexiÃ³n e intenta de nuevo.  
+ENTER_EMAIL_TO_GET_PASS,Por favor ingresa tu correo electrÃ³nico para recibir un enlace de restablecimiento de contraseÃ±a.  
 LANGUAGE,Idioma  
 CAPTCHA,Captcha  
-RESET_MY_PASSWORD,Restablecer mi contraseña  
+RESET_MY_PASSWORD,Restablecer mi contraseÃ±a  
 ERROR_V1,Error  
 INCORRECT_CAPTCHA,"Captcha incorrecto, intenta de nuevo.  "
-ENTER_VALID_EMAIL,"Correo inválido, por favor ingrese un correo válido.  "
-EMAIL_RECEIVED_RESET_PASS,Recibirás un correo con un enlace para restablecer tu contraseña.  
-CURRENT_PASSWORD,Contraseña actual  
-ENTER_CURRENT_PASSWORD,Ingresa la contraseña actual  
-NEW_PASSWORD,Nueva contraseña  
-ENTER_NEW_PASSWORD,Ingresa la nueva contraseña  
-CONFIRM_NEW_PASSWORD,Confirmar nueva contraseña  
+ENTER_VALID_EMAIL,"Correo invÃ¡lido, por favor ingrese un correo vÃ¡lido.  "
+EMAIL_RECEIVED_RESET_PASS,RecibirÃ¡s un correo con un enlace para restablecer tu contraseÃ±a.  
+CURRENT_PASSWORD,ContraseÃ±a actual  
+ENTER_CURRENT_PASSWORD,Ingresa la contraseÃ±a actual  
+NEW_PASSWORD,Nueva contraseÃ±a  
+ENTER_NEW_PASSWORD,Ingresa la nueva contraseÃ±a  
+CONFIRM_NEW_PASSWORD,Confirmar nueva contraseÃ±a  
 SAVE_V1,Guardar  
 ALL_FIELDS_REQUIRED,Todos los campos son obligatorios.  
-NEW_CONFIRM_PASS_NOT_MATCH,La nueva contraseña y su confirmación no coinciden.  
-NEW_PASS_DIFFERENT_MSG,La nueva contraseña debe ser diferente a la actual.  
-PASS_CHANGED_SUCCESSFULLY,Contraseña cambiada con éxito.  
-SOMETHING_WENT_WRONG,"Algo salió mal. Por favor, intenta de nuevo.  "
-PASS_CHANGE_FAILED,No se pudo cambiar la contraseña. Verifica tu contraseña actual.  
+NEW_CONFIRM_PASS_NOT_MATCH,La nueva contraseÃ±a y su confirmaciÃ³n no coinciden.  
+NEW_PASS_DIFFERENT_MSG,La nueva contraseÃ±a debe ser diferente a la actual.  
+PASS_CHANGED_SUCCESSFULLY,ContraseÃ±a cambiada con Ã©xito.  
+SOMETHING_WENT_WRONG,"Algo saliÃ³ mal. Por favor, intenta de nuevo.  "
+PASS_CHANGE_FAILED,No se pudo cambiar la contraseÃ±a. Verifica tu contraseÃ±a actual.  
 SIZE_SELECTED,Talla seleccionada  
-USER_DELETE_MSG,¿Estás seguro de que deseas eliminar tu cuenta?  
+USER_DELETE_MSG,Â¿EstÃ¡s seguro de que deseas eliminar tu cuenta?  
 VIDEO_V1,Video  
 SUBMIT_V1,Enviar  
 DELIVERED_ON,Entregado el  
 RECEIVED_BY,Recibido por  
-SHIPMENT_FROM,Envío desde  
+SHIPMENT_FROM,EnvÃ­o desde  
 SHIP_TO,Enviar a  
 ESTIMATE_DELIVERY,Entrega estimada  
-SELECT_PAYMENT_METHOD,Por favor selecciona un método de pago  
-CHECK_TERMS_CONDITION,Por favor verifica los términos y condiciones  
-SEEMS_NOTHING_HERE,Parece que no hay nada aquí.  
+SELECT_PAYMENT_METHOD,Por favor selecciona un mÃ©todo de pago  
+CHECK_TERMS_CONDITION,Por favor verifica los tÃ©rminos y condiciones  
+SEEMS_NOTHING_HERE,Parece que no hay nada aquÃ­.  
 MY_ACCOUNT,Mi cuenta  
-UPDATE_FAILED,Actualización fallida  
+UPDATE_FAILED,ActualizaciÃ³n fallida  
 SEARCH_V1,Buscar
 CLEAR,Borrar
-PREVIOUS_SEARCHES,Búsqueda anterior
+PREVIOUS_SEARCHES,BÃºsqueda anterior
 PAYMENT_FAILED,Pago fallido
 COVERS,Fundas
 SORT_BY,Ordenar por
@@ -234,10 +234,10 @@ RESET,Restablecer
 SHOW_ALL_RESULT,Mostrar todos los resultados
 SHOW_V1,Mostrar
 RESULT,Resultado
-CATEGORIES,Categor�as
+CATEGORIES,Categorías
 DELIVERY_AVAILABILITY,Disponibilidad de entrega
-ITEM_V1,Art�culo
-WILL_BE_AVAILABLE,Estar� disponible el
+ITEM_V1,Artículo
+WILL_BE_AVAILABLE,Estará disponible el
 WITH_QUANTITY,con la cantidad
 CLOSE_V1,Cerrar
 CHECK_AVAILABILITY_EMPTY_MSG,No se encontraron datos
