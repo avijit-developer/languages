@@ -14,7 +14,7 @@ MY_OPEN_ORDERS,I MIEI ORDINI APERTI
 COUNT,Conteggio
 AMOUNT,Importo
 MY_OPEN_INVOICES,LE MIE FATTURE APERTE
-TOP_MOST PURCHASED_PRODUCTS,I 10 PRODOTTI PIÃƒÂ™ ACQUISTATI
+TOP_MOST PURCHASED_PRODUCTS,I 10 PRODOTTI PIÃƒÆ’Ã‚â„¢ ACQUISTATI
 ORDERS,Ordini
 ORDER_ID_SAP,ID Ordine (SAP)
 ORDER_ID_ONLINE,ID Ordine (Online)
@@ -41,7 +41,7 @@ ORDER_NO,N. ordine
 ORDER_ITEMS,Articoli ordinati
 SKU_V1,SKU
 PRICE,Prezzo
-QTY_V1,QuantitÃƒÂ 
+QTY_V1,QuantitÃƒÆ’Ã‚Â 
 TAX_V1,Tassa
 SUBTOTAL,Subtotale
 TOTAL_BEFORE_TAX,Totale prima delle tasse
@@ -62,7 +62,7 @@ CREDIT_NOTE_LIST,Elenco note di credito
 CREDIT_NOTE_NO,N. nota di credito
 CREDIT_NOTE_ONLINE,Nota di credito (Online)
 SHOW_LESS,Mostra meno
-SHOW_MORE,Mostra di piÃƒÂ¹
+SHOW_MORE,Mostra di piÃƒÆ’Ã‚Â¹
 CREDIT_NOTE_DETAILS,Dettagli della nota di credito
 HOME,Home
 SELECT_ALL,Seleziona tutto
@@ -120,7 +120,7 @@ LIMITED_COLLECTION_2026,Anteprima Collezione Limitata 2026
 CONFIRM_ACTION,Conferma azione
 WIST_DELETE_MSG,Sei sicuro di voler rimuovere questo prodotto dalla tua lista dei desideri?
 CANCEL,Annulla
-YES,SÃƒÂ¬
+YES,SÃƒÆ’Ã‚Â¬
 MY_CART,Il mio carrello
 COLOR,Colore
 SIZE,Taglia
@@ -144,8 +144,8 @@ ADDED_ITEM,Articolo aggiunto
 ADD_TO_BAG,Aggiungi alla borsa
 DISCOUNT_APPLICABLE_MSG,Nota: lo sconto sopra indicato si applica solo su colore e taglia uguali
 DELIVERY_BETWEEN_WEEKS,Tempi di consegna tra 2 e 4 settimane
-CHECK_AVAILABILITY,Verifica disponibilitÃƒÂ 
-THIS_IS_REQUIRED_FIELD,Questo campo ÃƒÂ¨ obbligatorio.
+CHECK_AVAILABILITY,Verifica disponibilitÃƒÆ’Ã‚Â 
+THIS_IS_REQUIRED_FIELD,Questo campo ÃƒÆ’Ã‚Â¨ obbligatorio.
 SELECT_SIZE,Seleziona una taglia
 DETAILS,Dettagli
 ITEM_ADDED_SUCCESSFULLY,Articoli aggiunti con successo
@@ -174,7 +174,7 @@ ORDER_DATE,Data ordine
 COMMENTS_V1,Commento
 ITEM_ORDERED,Articoli ordinati
 ORDER_SUMMARY,Riepilogo ordine
-QUANTITY_V1,QuantitÃƒÂ 
+QUANTITY_V1,QuantitÃƒÆ’Ã‚Â 
 ADDRESS_LIST,Elenco indirizzi
 DEFAULT_SHIPPING_ADDRESS,Indirizzo di spedizione predefinito
 DEFAULT_BILLING_ADDRESS,Indirizzo di fatturazione predefinito
@@ -208,7 +208,7 @@ ALL_FIELDS_REQUIRED,Tutti i campi sono obbligatori.
 NEW_CONFIRM_PASS_NOT_MATCH,La nuova password e la conferma non corrispondono.
 NEW_PASS_DIFFERENT_MSG,La nuova password deve essere diversa da quella attuale.
 PASS_CHANGED_SUCCESSFULLY,Password modificata con successo.
-SOMETHING_WENT_WRONG,Qualcosa ÃƒÂ¨ andato storto. Riprova.
+SOMETHING_WENT_WRONG,Qualcosa ÃƒÆ’Ã‚Â¨ andato storto. Riprova.
 PASS_CHANGE_FAILED,Modifica password non riuscita. Controlla la password attuale.
 SIZE_SELECTED,Taglia selezionata
 USER_DELETE_MSG,Sei sicuro di voler eliminare il tuo account?
@@ -235,15 +235,16 @@ SHOW_ALL_RESULT,Mostra tutti i risultati
 SHOW_V1,Mostra
 RESULT,Risultato
 CATEGORIES,Categorie
-DELIVERY_AVAILABILITY,DisponibilitÃ  di consegna
+DELIVERY_AVAILABILITY,DisponibilitÃƒÂ  di consegna
 ITEM_V1,Articolo
-WILL_BE_AVAILABLE,SarÃ  disponibile il
-WITH_QUANTITY,con la quantitÃ 
+WILL_BE_AVAILABLE,SarÃƒÂ  disponibile il
+WITH_QUANTITY,con la quantitÃƒÂ 
 CLOSE_V1,Chiudi
 CHECK_AVAILABILITY_EMPTY_MSG,Nessun dato trovato
 PARTIAL_DELIVERY,Consegna parziale
 DELAYED_DELIVERY,Consegna ritardata
 PAYMENT,Pagamento
 UPDATE_REQUIRED,Aggiornamento richiesto
-UPDATE_REQUIRED_MSG,È disponibile una nuova versione. Aggiorna l’app per continuare.
+UPDATE_REQUIRED_MSG,Ãˆ disponibile una nuova versione. Aggiorna lâ€™app per continuare.
 UPDATE_NOW,Aggiorna ora
+WELCOME,Benvenuti
