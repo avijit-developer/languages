@@ -8,7 +8,7 @@ SALES_ORDERS,Bestellungen
 PRODUCT_INFORMATION,Produktinformationen
 MY_COMPANY,Mein Unternehmen
 CREDIT_NOTES,Gutschriften
-ABOUT_US,ÃƒÆ’Ã…â€œber uns
+ABOUT_US,Über uns
 BALANCE_SHEET,Bilanz
 MY_OPEN_ORDERS,MEINE OFFENEN BESTELLUNGEN
 COUNT,ANZAHL
@@ -23,7 +23,7 @@ DATE,Datum
 ORDER_TOTAL,Gesamtbetrag der Bestellung
 PLEASE_ENTER_TO_DATE,Bitte geben Sie das Enddatum ein
 PLEASE_ENTER_FROM_DATE,Bitte geben Sie das Startdatum ein
-OPENED,GeÃƒÆ’Ã‚Â¶ffnet
+OPENED,Geöffnet
 CLOSED,Geschlossen
 CANCELLED,Storniert
 PARTIAL_PENDING,Teilweise ausstehend
@@ -31,11 +31,11 @@ PENDING,Ausstehend
 PAID,Bezahlt
 FROM_DATE,Von-Datum
 TO_DATE,Bis-Datum
-SELECT_STATUS,Status auswÃƒÆ’Ã‚Â¤hlen
+SELECT_STATUS,Status auswählen
 NUMBER,Nummer
 ENTER_NUMBER,Nummer eingeben
 APPLY_FILTER,FILTER ANWENDEN
-CLEAR_FILTER,FILTER ZURÃƒÆ’Ã…â€œCKSETZEN
+CLEAR_FILTER,FILTER ZURÜCKSETZEN
 ORDER_DETAILS,Bestelldetails
 ORDER_NO,Bestellnummer
 ORDER_ITEMS,Bestellartikel
@@ -65,9 +65,9 @@ SHOW_LESS,Weniger anzeigen
 SHOW_MORE,Mehr anzeigen
 CREDIT_NOTE_DETAILS,Gutschriftsdetails
 HOME,Startseite
-SELECT_ALL,Alles auswÃƒÆ’Ã‚Â¤hlen
+SELECT_ALL,Alles auswählen
 PAYMENT_SUCCESSFUL,Zahlung erfolgreich
-CHOOSE_PAYMENT_METHOD,Zahlungsmethode auswÃƒÆ’Ã‚Â¤hlen
+CHOOSE_PAYMENT_METHOD,Zahlungsmethode auswählen
 PAYBLE_AMOUNT,Zu zahlender Betrag
 SHIPMENT,Lieferung
 TRAINING_RESOURCES,Schulungsressourcen
@@ -102,14 +102,14 @@ SIGNIN_ACCOUNT_FIRST,Bitte melden Sie sich zuerst in Ihrem Konto an
 EMAIL,E-Mail
 PASSWORD,Passwort
 FORGOT_PASSWORD,Passwort vergessen?
-EMAIL_REQUIRED,"UngÃƒÆ’Ã‚Â¼ltige E-Mail, bitte geben Sie eine gÃƒÆ’Ã‚Â¼ltige Adresse ein."
-PASSWORD_REQUIRED,"UngÃƒÆ’Ã‚Â¼ltiges Passwort, bitte geben Sie ein gÃƒÆ’Ã‚Â¼ltiges Passwort ein."
+EMAIL_REQUIRED,"Ungültige E-Mail, bitte geben Sie eine gültige Adresse ein."
+PASSWORD_REQUIRED,"Ungültiges Passwort, bitte geben Sie ein gültiges Passwort ein."
 LOADING,Wird geladen
 CREDIT_LIMIT,Kreditlimit
-AVAILABLE_CREDIT_LIMIT,VerfÃƒÆ’Ã‚Â¼gbar
+AVAILABLE_CREDIT_LIMIT,Verfügbar
 YOUR_ACCOUNT,Ihr Konto
-OVERVIEW,ÃƒÆ’Ã…â€œbersicht
-PERSONAL_DETAILS,PersÃƒÆ’Ã‚Â¶nliche Daten
+OVERVIEW,Übersicht
+PERSONAL_DETAILS,Persönliche Daten
 PARTNER_PORTAL,Partnerportal
 MY_WISH_LIST,Meine Wunschliste
 ADDRESS_BOOK,Adressbuch
@@ -117,55 +117,55 @@ REQUEST_FOR_LOGO,Logo anfordern
 FIND_SOMETHING,Suchen
 SALE,Sale
 LIMITED_COLLECTION_2026,Vorschau LIMITIERTE Kollektion 2026
-CONFIRM_ACTION,Aktion bestÃƒÆ’Ã‚Â¤tigen
-WIST_DELETE_MSG,MÃƒÆ’Ã‚Â¶chten Sie dieses Produkt wirklich aus Ihrer Wunschliste entfernen?
+CONFIRM_ACTION,Aktion bestätigen
+WIST_DELETE_MSG,Möchten Sie dieses Produkt wirklich aus Ihrer Wunschliste entfernen?
 CANCEL,Abbrechen
 YES,Ja
 MY_CART,Mein Warenkorb
 COLOR,Farbe
-SIZE,GrÃƒÆ’Ã‚Â¶ÃƒÆ’Ã…Â¸e
-ADD_PROMO_CODE,Promo-Code hinzufÃƒÆ’Ã‚Â¼gen
+SIZE,Größe
+ADD_PROMO_CODE,Promo-Code hinzufügen
 ENTER_COUPON_CODE,Gutscheincode eingeben
 APPLY,ANWENDEN
 COUPON_APPLIED,Gutschein angewendet
 REMOVE,Entfernen
-ADD_A_NOTE,Notiz hinzufÃƒÆ’Ã‚Â¼gen
+ADD_A_NOTE,Notiz hinzufügen
 DISCOUNT,Rabatt
 TOTAL,Gesamt
-PLACE_ORDER,Bestellung abschlieÃƒÆ’Ã…Â¸en
+PLACE_ORDER,Bestellung abschließen
 YOUR_CART_EMPTY,Sie haben keine Artikel in Ihrem Warenkorb.
 CONTINUE_SHIPPING,Weiter einkaufen
-ALL_PRODUCT_DELETE_MSG,MÃƒÆ’Ã‚Â¶chten Sie wirklich alle Produkte aus dem Warenkorb entfernen?
+ALL_PRODUCT_DELETE_MSG,Möchten Sie wirklich alle Produkte aus dem Warenkorb entfernen?
 SUCCESSFULLY_REMOVED,Erfolgreich entfernt
-PRODUCT_DELETE_MSG,MÃƒÆ’Ã‚Â¶chten Sie dieses Produkt wirklich aus dem Warenkorb entfernen?
-SUCCESSFULLY_ADDED,Erfolgreich hinzugefÃƒÆ’Ã‚Â¼gt
-CHOOSE_SIZE,GrÃƒÆ’Ã‚Â¶ÃƒÆ’Ã…Â¸e wÃƒÆ’Ã‚Â¤hlen
-ADDED_ITEM,Artikel hinzugefÃƒÆ’Ã‚Â¼gt
+PRODUCT_DELETE_MSG,Möchten Sie dieses Produkt wirklich aus dem Warenkorb entfernen?
+SUCCESSFULLY_ADDED,Erfolgreich hinzugefügt
+CHOOSE_SIZE,Größe wählen
+ADDED_ITEM,Artikel hinzugefügt
 ADD_TO_BAG,In den Warenkorb legen
-DISCOUNT_APPLICABLE_MSG,Hinweis: Der oben genannte Rabatt gilt nur fÃƒÆ’Ã‚Â¼r gleiche Farbe und GrÃƒÆ’Ã‚Â¶ÃƒÆ’Ã…Â¸e
+DISCOUNT_APPLICABLE_MSG,Hinweis: Der oben genannte Rabatt gilt nur für gleiche Farbe und Größe
 DELIVERY_BETWEEN_WEEKS,Lieferzeit zwischen 2 und 4 Wochen
-CHECK_AVAILABILITY,VerfÃƒÆ’Ã‚Â¼gbarkeit prÃƒÆ’Ã‚Â¼fen
+CHECK_AVAILABILITY,Verfügbarkeit prüfen
 THIS_IS_REQUIRED_FIELD,Dieses Feld ist erforderlich.
-SELECT_SIZE,GrÃƒÆ’Ã‚Â¶ÃƒÆ’Ã…Â¸e auswÃƒÆ’Ã‚Â¤hlen
+SELECT_SIZE,Größe auswählen
 DETAILS,Details
-ITEM_ADDED_SUCCESSFULLY,Artikel erfolgreich hinzugefÃƒÆ’Ã‚Â¼gt
-CHOOSE_SIZE,GrÃƒÆ’Ã‚Â¶ÃƒÆ’Ã…Â¸e auswÃƒÆ’Ã‚Â¤hlen
+ITEM_ADDED_SUCCESSFULLY,Artikel erfolgreich hinzugefügt
+CHOOSE_SIZE,Größe auswählen
 EACH_AND_SAVE,jeweils und sparen
 BUY,Kaufen
-FOR,fÃƒÆ’Ã‚Â¼r
-INVALID_COUPN,UngÃƒÆ’Ã‚Â¼ltiger Gutschein
+FOR,für
+INVALID_COUPN,Ungültiger Gutschein
 SUCCESSFULLY_UPDATED,Erfolgreich aktualisiert
-DISCOUNT_ADDED,Rabatt hinzugefÃƒÆ’Ã‚Â¼gt
+DISCOUNT_ADDED,Rabatt hinzugefügt
 DISCOUNT_REMOVED,Rabatt entfernt
-CHOOSE_DELIVERY_OPTIONS,Bitte wÃƒÆ’Ã‚Â¤hlen Sie eine Versandoption fÃƒÆ’Ã‚Â¼r fehlende Artikel:
-ACCEPT_TERMS_CONDITIONS,Ich akzeptiere die Allgemeinen GeschÃƒÆ’Ã‚Â¤ftsbedingungen
+CHOOSE_DELIVERY_OPTIONS,Bitte wählen Sie eine Versandoption für fehlende Artikel:
+ACCEPT_TERMS_CONDITIONS,Ich akzeptiere die Allgemeinen Geschäftsbedingungen
 AGREED_PAYMENT_TERMS,Vereinbarte Zahlungsbedingungen gelten
 SHIPPING_COSTS,Versandkosten
 CART_SUBTOTAL,Warenkorb Zwischensumme
 SHIPPING_V1,Versand
-CHANGE_PASSWORD,Passwort ÃƒÆ’Ã‚Â¤ndern
-ACCOUNT_DELETION,Konto lÃƒÆ’Ã‚Â¶schen
-DELETE_DATA,Daten anfordern oder lÃƒÆ’Ã‚Â¶schen
+CHANGE_PASSWORD,Passwort ändern
+ACCOUNT_DELETION,Konto löschen
+DELETE_DATA,Daten anfordern oder löschen
 SIGNOUT,Abmelden
 ORDERS_LIST,Bestellliste
 ORDER_V1,Bestellung
@@ -173,7 +173,7 @@ REORDER,Erneut bestellen
 ORDER_DATE,Bestelldatum
 COMMENTS_V1,Kommentar
 ITEM_ORDERED,Bestellte Artikel
-ORDER_SUMMARY,BestellÃƒÆ’Ã‚Â¼bersicht
+ORDER_SUMMARY,Bestellübersicht
 QUANTITY_V1,Menge
 ADDRESS_LIST,Adressliste
 DEFAULT_SHIPPING_ADDRESS,Standard-Lieferadresse
@@ -186,32 +186,32 @@ FILTERS_V1,Filter
 ALL_FILTERS,Alle Filter
 NO_NOTIFICATION_FOUND,Noch keine Benachrichtigungen
 MARK_ALL_AS_READ,Alle als gelesen markieren
-CLEAR_ALL,Alle lÃƒÆ’Ã‚Â¶schen
+CLEAR_ALL,Alle löschen
 NOTIFICATION_V1,Benachrichtigung
 NO_INTERNET_CONNECTION,Keine Internetverbindung
-CHECK_YOUR_CONNECTION,Bitte ÃƒÆ’Ã‚Â¼berprÃƒÆ’Ã‚Â¼fen Sie Ihre Verbindung und versuchen Sie es erneut.
-ENTER_EMAIL_TO_GET_PASS,"Bitte geben Sie Ihre E-Mail-Adresse ein, um den Link zum ZurÃƒÆ’Ã‚Â¼cksetzen Ihres Passworts zu erhalten."
+CHECK_YOUR_CONNECTION,Bitte überprüfen Sie Ihre Verbindung und versuchen Sie es erneut.
+ENTER_EMAIL_TO_GET_PASS,"Bitte geben Sie Ihre E-Mail-Adresse ein, um den Link zum Zurücksetzen Ihres Passworts zu erhalten."
 LANGUAGE,Sprache
 CAPTCHA,Captcha
-RESET_MY_PASSWORD,Passwort zurÃƒÆ’Ã‚Â¼cksetzen
+RESET_MY_PASSWORD,Passwort zurücksetzen
 ERROR_V1,Fehler
 INCORRECT_CAPTCHA,"Falsches CAPTCHA, bitte erneut versuchen."
-ENTER_VALID_EMAIL,"UngÃƒÆ’Ã‚Â¼ltige E-Mail, bitte geben Sie eine gÃƒÆ’Ã‚Â¼ltige Adresse ein."
-EMAIL_RECEIVED_RESET_PASS,Sie erhalten eine E-Mail mit einem Link zum ZurÃƒÆ’Ã‚Â¼cksetzen Ihres Passworts.
+ENTER_VALID_EMAIL,"Ungültige E-Mail, bitte geben Sie eine gültige Adresse ein."
+EMAIL_RECEIVED_RESET_PASS,Sie erhalten eine E-Mail mit einem Link zum Zurücksetzen Ihres Passworts.
 CURRENT_PASSWORD,Aktuelles Passwort
 ENTER_CURRENT_PASSWORD,Aktuelles Passwort eingeben
 NEW_PASSWORD,Neues Passwort
 ENTER_NEW_PASSWORD,Neues Passwort eingeben
-CONFIRM_NEW_PASSWORD,Neues Passwort bestÃƒÆ’Ã‚Â¤tigen
+CONFIRM_NEW_PASSWORD,Neues Passwort bestätigen
 SAVE_V1,Speichern
 ALL_FIELDS_REQUIRED,Alle Felder sind erforderlich.
-NEW_CONFIRM_PASS_NOT_MATCH,Neues Passwort und BestÃƒÆ’Ã‚Â¤tigung stimmen nicht ÃƒÆ’Ã‚Â¼berein.
+NEW_CONFIRM_PASS_NOT_MATCH,Neues Passwort und Bestätigung stimmen nicht überein.
 NEW_PASS_DIFFERENT_MSG,Neues Passwort muss sich vom aktuellen unterscheiden.
-PASS_CHANGED_SUCCESSFULLY,Passwort erfolgreich geÃƒÆ’Ã‚Â¤ndert.
+PASS_CHANGED_SUCCESSFULLY,Passwort erfolgreich geändert.
 SOMETHING_WENT_WRONG,Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.
-PASS_CHANGE_FAILED,Passwort konnte nicht geÃƒÆ’Ã‚Â¤ndert werden. Bitte prÃƒÆ’Ã‚Â¼fen Sie Ihr aktuelles Passwort.
-SIZE_SELECTED,GrÃƒÆ’Ã‚Â¶ÃƒÆ’Ã…Â¸e ausgewÃƒÆ’Ã‚Â¤hlt
-USER_DELETE_MSG,MÃƒÆ’Ã‚Â¶chten Sie Ihr Konto wirklich lÃƒÆ’Ã‚Â¶schen?
+PASS_CHANGE_FAILED,Passwort konnte nicht geändert werden. Bitte prüfen Sie Ihr aktuelles Passwort.
+SIZE_SELECTED,Größe ausgewählt
+USER_DELETE_MSG,Möchten Sie Ihr Konto wirklich löschen?
 VIDEO_V1,Video
 SUBMIT_V1,Absenden
 DELIVERED_ON,Geliefert am
@@ -219,32 +219,32 @@ RECEIVED_BY,Erhalten von
 SHIPMENT_FROM,Versendet von
 SHIP_TO,Versendet an
 ESTIMATE_DELIVERY,Voraussichtliche Lieferung
-SELECT_PAYMENT_METHOD,Bitte wÃƒÆ’Ã‚Â¤hlen Sie eine Zahlungsmethode
-CHECK_TERMS_CONDITION,Bitte akzeptieren Sie die Allgemeinen GeschÃƒÆ’Ã‚Â¤ftsbedingungen
+SELECT_PAYMENT_METHOD,Bitte wählen Sie eine Zahlungsmethode
+CHECK_TERMS_CONDITION,Bitte akzeptieren Sie die Allgemeinen Geschäftsbedingungen
 SEEMS_NOTHING_HERE,Hier ist scheinbar nichts drin.
 MY_ACCOUNT,Mein Konto
 UPDATE_FAILED,Aktualisierung fehlgeschlagen
 SEARCH_V1,Suchen
-CLEAR,LÃƒÆ’Ã‚Â¶schen
-PREVIOUS_SEARCHES,FrÃƒÆ’Ã‚Â¼here Suche
+CLEAR,Löschen
+PREVIOUS_SEARCHES,Frühere Suche
 PAYMENT_FAILED,Zahlung fehlgeschlagen
 COVERS,Abdeckungen
 SORT_BY,Sortieren nach
-RESET,ZurÃƒÆ’Ã‚Â¼cksetzen
+RESET,Zurücksetzen
 SHOW_ALL_RESULT,Alle Ergebnisse anzeigen
 SHOW_V1,Anzeigen
 RESULT,Ergebnis
 CATEGORIES,Kategorien
-DELIVERY_AVAILABILITY,LieferverfÃƒÆ’Ã‚Â¼gbarkeit
+DELIVERY_AVAILABILITY,Lieferverfügbarkeit
 ITEM_V1,Artikel
-WILL_BE_AVAILABLE,Wird verfÃƒÆ’Ã‚Â¼gbar sein am
+WILL_BE_AVAILABLE,Wird verfügbar sein am
 WITH_QUANTITY,mit der Menge
-CLOSE_V1,SchlieÃƒÆ’Ã…Â¸en
+CLOSE_V1,Schließen
 CHECK_AVAILABILITY_EMPTY_MSG,Keine Daten gefunden
 PARTIAL_DELIVERY,Teillieferung
-DELAYED_DELIVERY,VerzÃƒÆ’Ã‚Â¶gerte Lieferung
+DELAYED_DELIVERY,Verzögerte Lieferung
 PAYMENT,Zahlung
 UPDATE_REQUIRED,Aktualisierung erforderlich
-UPDATE_REQUIRED_MSG,"Eine neue Version ist verfÃƒÆ’Ã‚Â¼gbar. Bitte aktualisiere die App, um fortzufahren."
+UPDATE_REQUIRED_MSG,"Eine neue Version ist verfügbar. Bitte aktualisiere die App, um fortzufahren."
 UPDATE_NOW,Jetzt aktualisieren
 WELCOME,Willkommen
