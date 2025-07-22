@@ -189,7 +189,7 @@ CLEAR_ALL,Alle löschen
 NOTIFICATION_V1,Benachrichtigung
 NO_INTERNET_CONNECTION,Keine Internetverbindung
 CHECK_YOUR_CONNECTION,Bitte überprüfen Sie Ihre Verbindung und versuchen Sie es erneut.
-ENTER_EMAIL_TO_GET_PASS,"Bitte geben Sie Ihre E-Mail-Adresse ein, um den Link zum Zurücksetzen Ihres Passworts zu erhalten."
+ENTER_EMAIL_TO_GET_PASS,Bitte geben Sie Ihre E-Mail-Adresse ein, um den Link zum Zurücksetzen Ihres Passworts zu erhalten.
 LANGUAGE,Sprache
 CAPTCHA,Captcha
 RESET_MY_PASSWORD,Passwort zurücksetzen
@@ -247,3 +247,6 @@ UPDATE_REQUIRED,Aktualisierung erforderlich
 UPDATE_REQUIRED_MSG,"Eine neue Version ist verfügbar. Bitte aktualisiere die App, um fortzufahren."
 UPDATE_NOW,Jetzt aktualisieren
 WELCOME,Willkommen
+NAME,Name
+CHAR_LEFT,verbleibende zeichen
+SAVE_COMMENT,Kommentar speichern
