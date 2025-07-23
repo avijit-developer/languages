@@ -149,7 +149,6 @@ THIS_IS_REQUIRED_FIELD,This is a required field.
 SELECT_SIZE,Select a size
 DETAILS,Details
 ITEM_ADDED_SUCCESSFULLY,Items added successfully
-CHOOSE_SIZE,Choose The Size
 EACH_AND_SAVE,each and save
 BUY,Buy
 FOR,for
@@ -253,3 +252,23 @@ CHAR_LEFT,characters left
 SAVE_COMMENT,Save Comment
 BRIDAL_DATE,Wedding date
 DONE,Done
+SERVICE_CALL,Service Call
+IMAGES_SIZE_V1,Images (Max size: 5 MB each)
+SELECT_IMAGES,Select Images
+VIDEO_SIZE_V1,Video (Max size: 20 MB)
+SELECT_VIDEO,Select Video
+ONLY_ONE_VIDEO,Only one video allowed
+REMOVE_EXISTING_VIDEO,Please remove the existing video before selecting another.
+SUBMITTING,Submitting...
+SERVICE_CALL_SUBMIT_MSG,Service call submitted successfully.
+SERVICE_VALIDATION_ERROR,Validation Error
+ENTER_YOUR_NAME,Please enter your name.
+ENTER_YOUR_COMMENT,Please enter your comment.
+SELECT_ONE_IMAGE,Please select at least one image.
+VIDEO_TOO_LARGE,Video too large
+EXCEEDS_MB_VIDEO_LIMIT,exceeds the 20 MB limit.
+IMAGE_LIMIT_REACHED,Image limit reached
+UPLOAD_MAX_FIVE_IMAGES,You can upload a maximum of 5 images.
+IMAGE_TOO_LARGE,Image too large
+EXCEEDS_MB_IMAGE_LIMIT,exceeds the 5 MB limit.
+IMAGE_V1,Image

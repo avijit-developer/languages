@@ -252,3 +252,23 @@ CHAR_LEFT,verbleibende zeichen
 SAVE_COMMENT,Kommentar speichern
 BRIDAL_DATE,Hochzeitsdatum
 DONE,Fertig
+SERVICE_CALL,Serviceanfrage
+IMAGES_SIZE_V1,Bilder (Maximale Größe: 5 MB pro Bild)
+SELECT_IMAGES,Bilder auswählen
+VIDEO_SIZE_V1,Video (Maximale Größe: 20 MB)
+SELECT_VIDEO,Video auswählen
+ONLY_ONE_VIDEO,Nur ein Video erlaubt
+REMOVE_EXISTING_VIDEO,Bitte entfernen Sie das vorhandene Video, bevor Sie ein anderes auswählen.
+SUBMITTING,Wird gesendet...
+SERVICE_CALL_SUBMIT_MSG,Serviceanfrage erfolgreich übermittelt.
+SERVICE_VALIDATION_ERROR,Validierungsfehler
+ENTER_YOUR_NAME,Bitte geben Sie Ihren Namen ein.
+ENTER_YOUR_COMMENT,Bitte geben Sie Ihren Kommentar ein.
+SELECT_ONE_IMAGE,Bitte wählen Sie mindestens ein Bild aus.
+VIDEO_TOO_LARGE,Video zu groß
+EXCEEDS_MB_VIDEO_LIMIT,überschreitet das Limit von 20 MB.
+IMAGE_LIMIT_REACHED,Bilderlimit erreicht
+UPLOAD_MAX_FIVE_IMAGES,Sie können maximal 5 Bilder hochladen.
+IMAGE_TOO_LARGE,Bild zu groß
+EXCEEDS_MB_IMAGE_LIMIT,überschreitet das Limit von 5 MB.
+IMAGE_V1,Bild

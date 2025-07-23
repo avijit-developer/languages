@@ -149,7 +149,6 @@ THIS_IS_REQUIRED_FIELD,Questo campo è obbligatorio.
 SELECT_SIZE,Seleziona una taglia
 DETAILS,Dettagli
 ITEM_ADDED_SUCCESSFULLY,Articoli aggiunti con successo
-CHOOSE_SIZE,Scegli la taglia
 EACH_AND_SAVE,ciascuno e risparmia
 Buy,Acquista
 FOR,per
@@ -253,3 +252,23 @@ CHAR_LEFT,caratteri rimanenti
 SAVE_COMMENT,Salva commento
 BRIDAL_DATE,Data del matrimonio
 DONE,Fatto
+SERVICE_CALL,Richiesta di servizio
+IMAGES_SIZE_V1,Immagini (Dimensione massima: 5 MB ciascuna)
+SELECT_IMAGES,Seleziona immagini
+VIDEO_SIZE_V1,Video (Dimensione massima: 20 MB)
+SELECT_VIDEO,Seleziona video
+ONLY_ONE_VIDEO,È consentito un solo video
+REMOVE_EXISTING_VIDEO,Per favore rimuovi il video esistente prima di selezionarne un altro.
+SUBMITTING,Invio in corso...
+SERVICE_CALL_SUBMIT_MSG,Richiesta di servizio inviata con successo.
+SERVICE_VALIDATION_ERROR,Errore di convalida
+ENTER_YOUR_NAME,Per favore inserisci il tuo nome.
+ENTER_YOUR_COMMENT,Per favore inserisci il tuo commento.
+SELECT_ONE_IMAGE,Per favore seleziona almeno un'immagine.
+VIDEO_TOO_LARGE,Video troppo grande
+EXCEEDS_MB_VIDEO_LIMIT,supera il limite di 20 MB.
+IMAGE_LIMIT_REACHED,Limite di immagini raggiunto
+UPLOAD_MAX_FIVE_IMAGES,Puoi caricare un massimo di 5 immagini.
+IMAGE_TOO_LARGE,Immagine troppo grande
+EXCEEDS_MB_IMAGE_LIMIT,supera il limite di 5 MB.
+IMAGE_V1,Immagine
