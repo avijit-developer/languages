@@ -272,3 +272,4 @@ UPLOAD_MAX_FIVE_IMAGES,Sie können maximal 5 Bilder hochladen.
 IMAGE_TOO_LARGE,Bild zu groß
 EXCEEDS_MB_IMAGE_LIMIT,überschreitet das Limit von 5 MB.
 IMAGE_V1,Bild
+MESSAGE,Nachricht

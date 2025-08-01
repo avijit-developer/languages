@@ -272,3 +272,4 @@ UPLOAD_MAX_FIVE_IMAGES,You can upload a maximum of 5 images.
 IMAGE_TOO_LARGE,Image too large
 EXCEEDS_MB_IMAGE_LIMIT,exceeds the 5 MB limit.
 IMAGE_V1,Image
+MESSAGE,Message
