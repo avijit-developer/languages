@@ -273,3 +273,10 @@ IMAGE_TOO_LARGE,Imagen demasiado grande
 EXCEEDS_MB_IMAGE_LIMIT,supera el límite de 5 MB.
 IMAGE_V1,Imagen
 MESSAGE,Mensaje
+YOUR_SHIPMENT,Su envío
+TRACKING_FAILED_MSG,Actualmente no podemos proporcionar los detalles de seguimiento. No podemos localizar los envíos si aún no hemos recibido información del remitente o si la información del paquete tiene más de 120 días.
+ESTIMATED_DELIVERY_SOON,La fecha estimada de entrega estará disponible en cuanto recibamos el paquete.
+MONETICO_GATEWAY,Pago con tarjeta de crédito
+STRIPE_GATEWAY,Pagar con tarjeta (Stripe)
+PAYPAL_GATEWAY,Pago exprés con PayPal,
+REVOLUT_GATEWAY,Tarjeta de crédito (Revolut)
